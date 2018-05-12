@@ -1,0 +1,109 @@
+<nav class="navbar navbar-default navbar-fixed-title hidden-print">
+    <div class="container navbar-title app-container">
+        <div class="row">
+            <div class="col-md-6 hidden-xs page-title-left">
+                <span class="page-title" style="text-align: left;">Demand Dashboard:</span>
+                <label>&nbsp;&nbsp;Manufacturing Plant A - Hartsville, SC</label>
+            </div>
+            <div class="col-md-6 page-title-right">
+                <label class="text-muted" style="line-height: 40px;">Data as of: {{demandPlanCtrl.today | date:'dd MMM yyyy'}}</label>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-4 text-right">
+            <label style="line-height: 40px;">Total Demand Predicted for 10 days:</label>
+        </div>
+        <div class="col-md-8 padding-right-0">
+            <table class="month-picker-table" style="width: 100%">
+                <tr class="text-center">
+                    <td ng-repeat="day in demandPlanCtrl.demand_days">
+                        <div class="mp-year-header mp-active">{{day | date:'dd MMM'}}</div>
+                    </td>
+                </tr>
+                <tr class="text-center">
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[0] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[1] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[2] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[3] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[4] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[5] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[6] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[7] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[8] | number : 0}}</div></td>
+                    <td><div class="mp-month">{{demandPlanCtrl.total_predictions[9] | number : 0}}</div></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        &nbsp;
+    </div>
+    <div class="row" ng-repeat="com in demandPlanCtrl.commodity" style="margin-bottom: 20px;">
+        <div class="col-md-9" style="background-color: #ffffff">
+            <div>
+                Commodity: <label>{{com.commodity}}</label>
+            </div>
+            <div class="demand-history-chart-container" id="demandHistory{{com.commodity}}"></div>
+        </div>
+        <div class="col-md-3" style="border: 1px solid #ddd;padding: 2px;">
+            <div class="col-xs-12 padding-right-0">
+                <div class="form-group">
+                    <label class="control-label">Model&nbsp;&nbsp;</label>
+                    <select class="form-control" ng-change="demandPlanCtrl.PredictForSelectedModel(com.commodity)" ng-model="demandPlanCtrl.selected_model[com.commodity]" ng-options="option.key for option in demandPlanCtrl.GetTopModels(com.commodity) track by option.key">
+                    </select>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <div class="form-group">
+                            <label class="control-label">Epochs:</label>
+                            <br><label class="control-label">{{demandPlanCtrl.selected_model[com.commodity].epochs}}</label>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 padding-right-0">
+                        <div class="form-group">
+                            <label class="control-label">Look Back:</label>
+                            <br><label class="control-label">{{demandPlanCtrl.selected_model[com.commodity].look_back}}</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <div class="form-group">
+                            <label class="control-label">Batch:</label>
+                            <br><label class="control-label">{{demandPlanCtrl.selected_model[com.commodity].batch_size}}</label>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 padding-right-0">
+                        <div class="form-group" ng-if="demandPlanCtrl.selected_model[com.commodity].ip_units > 0">
+                            <label class="control-label">Input Nodes:</label>
+                            <br><label class="control-label">{{demandPlanCtrl.selected_model[com.commodity].ip_units}}</label>
+                        </div>
+                        <div class="form-group" ng-if="demandPlanCtrl.selected_model[com.commodity].stacked_units > 0">
+                            <label class="control-label">Stacked Nodes:</label>
+                            <br><label class="control-label">{{demandPlanCtrl.selected_model[com.commodity].stacked_units}}</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <div class="form-group">
+                            <label class="control-label">Test MSE:</label>
+                            <br><label class="control-label">{{demandPlanCtrl.selected_model[com.commodity].test_mse | number : 3}}</label>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 padding-right-0">
+                        <div class="form-group">
+                            <label class="control-label">Test RMSE:</label>
+                            <br><label class="control-label">{{demandPlanCtrl.selected_model[com.commodity].test_rmse | number : 3}}</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

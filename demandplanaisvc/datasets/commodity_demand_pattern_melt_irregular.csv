@@ -1,0 +1,6001 @@
+commodity,day,qty
+BreadCrumb,4,0.0
+Candy,4,0.0
+Default,4,0.0
+Dip,4,0.0
+Instant,4,0.0
+Not Available,4,0.0
+Nut,4,2030.8799999999999
+Powder,4,0.0
+Supplement,4,0.0
+Tobacco,4,0.0
+BreadCrumb,5,0.0
+Candy,5,16.224
+Default,5,0.0
+Dip,5,0.0
+Instant,5,0.0
+Not Available,5,0.0
+Nut,5,399.82800000000003
+Powder,5,0.0
+Supplement,5,0.0
+Tobacco,5,0.0
+BreadCrumb,6,0.0
+Candy,6,0.0
+Default,6,0.0
+Dip,6,0.0
+Instant,6,0.0
+Not Available,6,0.0
+Nut,6,1081.0059999999999
+Powder,6,0.0
+Supplement,6,128.16
+Tobacco,6,0.0
+BreadCrumb,7,0.0
+Candy,7,0.0
+Default,7,0.0
+Dip,7,0.0
+Instant,7,0.0
+Not Available,7,0.0
+Nut,7,766.576
+Powder,7,0.0
+Supplement,7,82.5
+Tobacco,7,0.0
+BreadCrumb,8,0.0
+Candy,8,0.0
+Default,8,0.0
+Dip,8,0.0
+Instant,8,0.0
+Not Available,8,0.0
+Nut,8,533.8119999999999
+Powder,8,62.5
+Supplement,8,75.024
+Tobacco,8,0.0
+BreadCrumb,11,166.32
+Candy,11,0.0
+Default,11,0.0
+Dip,11,0.0
+Instant,11,0.0
+Not Available,11,0.0
+Nut,11,2338.5679999999998
+Powder,11,0.0
+Supplement,11,0.0
+Tobacco,11,0.0
+BreadCrumb,12,0.0
+Candy,12,0.0
+Default,12,0.0
+Dip,12,0.0
+Instant,12,0.0
+Not Available,12,0.0
+Nut,12,1067.664
+Powder,12,0.0
+Supplement,12,0.0
+Tobacco,12,0.0
+BreadCrumb,13,0.0
+Candy,13,0.0
+Default,13,0.0
+Dip,13,0.0
+Instant,13,0.0
+Not Available,13,0.0
+Nut,13,654.5039999999999
+Powder,13,0.0
+Supplement,13,0.0
+Tobacco,13,0.0
+BreadCrumb,14,0.0
+Candy,14,0.0
+Default,14,0.0
+Dip,14,0.0
+Instant,14,0.0
+Not Available,14,0.0
+Nut,14,666.944
+Powder,14,0.0
+Supplement,14,60.0
+Tobacco,14,0.0
+BreadCrumb,15,0.0
+Candy,15,0.0
+Default,15,0.0
+Dip,15,0.0
+Instant,15,0.0
+Not Available,15,0.0
+Nut,15,325.884
+Powder,15,44.06399999999999
+Supplement,15,0.0
+Tobacco,15,0.0
+BreadCrumb,18,0.0
+Candy,18,0.0
+Default,18,0.0
+Dip,18,0.0
+Instant,18,0.0
+Not Available,18,0.0
+Nut,18,1596.0
+Powder,18,0.0
+Supplement,18,0.0
+Tobacco,18,0.0
+BreadCrumb,19,0.0
+Candy,19,32.448
+Default,19,0.0
+Dip,19,0.0
+Instant,19,0.0
+Not Available,19,0.0
+Nut,19,1148.148
+Powder,19,25.92
+Supplement,19,0.0
+Tobacco,19,0.0
+BreadCrumb,20,0.0
+Candy,20,0.0
+Default,20,0.0
+Dip,20,0.0
+Instant,20,0.0
+Not Available,20,0.0
+Nut,20,1585.1640000000002
+Powder,20,0.0
+Supplement,20,0.0
+Tobacco,20,0.0
+BreadCrumb,21,0.0
+Candy,21,0.0
+Default,21,0.0
+Dip,21,0.0
+Instant,21,0.0
+Not Available,21,0.0
+Nut,21,2003.6279999999997
+Powder,21,0.0
+Supplement,21,0.0
+Tobacco,21,0.0
+BreadCrumb,22,0.0
+Candy,22,0.0
+Default,22,0.0
+Dip,22,0.0
+Instant,22,0.0
+Not Available,22,0.0
+Nut,22,622.108
+Powder,22,0.0
+Supplement,22,0.0
+Tobacco,22,0.0
+BreadCrumb,25,0.0
+Candy,25,0.0
+Default,25,0.0
+Dip,25,0.0
+Instant,25,0.0
+Not Available,25,0.0
+Nut,25,441.4840000000001
+Powder,25,0.0
+Supplement,25,0.0
+Tobacco,25,0.0
+BreadCrumb,26,0.0
+Candy,26,0.0
+Default,26,0.0
+Dip,26,0.0
+Instant,26,0.0
+Not Available,26,0.0
+Nut,26,844.6640000000001
+Powder,26,0.0
+Supplement,26,0.0
+Tobacco,26,0.0
+BreadCrumb,27,0.0
+Candy,27,0.0
+Default,27,0.0
+Dip,27,0.0
+Instant,27,0.0
+Not Available,27,0.0
+Nut,27,1872.7440000000001
+Powder,27,0.0
+Supplement,27,124.416
+Tobacco,27,0.0
+BreadCrumb,28,166.32
+Candy,28,0.0
+Default,28,0.0
+Dip,28,0.0
+Instant,28,0.0
+Not Available,28,0.0
+Nut,28,537.124
+Powder,28,0.0
+Supplement,28,157.5
+Tobacco,28,0.0
+BreadCrumb,29,0.0
+Candy,29,0.0
+Default,29,0.0
+Dip,29,0.0
+Instant,29,0.0
+Not Available,29,0.0
+Nut,29,532.116
+Powder,29,0.0
+Supplement,29,0.0
+Tobacco,29,0.0
+BreadCrumb,30,0.0
+Candy,30,0.0
+Default,30,0.0
+Dip,30,0.0
+Instant,30,0.0
+Not Available,30,0.0
+Nut,30,221.36399999999998
+Powder,30,0.0
+Supplement,30,0.0
+Tobacco,30,0.0
+BreadCrumb,32,0.0
+Candy,32,0.0
+Default,32,0.0
+Dip,32,0.0
+Instant,32,0.0
+Not Available,32,0.0
+Nut,32,491.2920000000001
+Powder,32,0.0
+Supplement,32,0.0
+Tobacco,32,0.0
+BreadCrumb,33,0.0
+Candy,33,0.0
+Default,33,0.0
+Dip,33,0.0
+Instant,33,0.0
+Not Available,33,0.0
+Nut,33,959.548
+Powder,33,0.0
+Supplement,33,0.0
+Tobacco,33,0.0
+BreadCrumb,34,0.0
+Candy,34,0.0
+Default,34,0.0
+Dip,34,0.0
+Instant,34,0.0
+Not Available,34,0.0
+Nut,34,2892.4759999999983
+Powder,34,0.0
+Supplement,34,0.0
+Tobacco,34,0.0
+BreadCrumb,35,0.0
+Candy,35,0.0
+Default,35,0.0
+Dip,35,0.0
+Instant,35,0.0
+Not Available,35,0.0
+Nut,35,621.644
+Powder,35,0.0
+Supplement,35,0.0
+Tobacco,35,0.0
+BreadCrumb,36,0.0
+Candy,36,0.0
+Default,36,0.0
+Dip,36,0.0
+Instant,36,0.0
+Not Available,36,0.0
+Nut,36,216.216
+Powder,36,0.0
+Supplement,36,153.834
+Tobacco,36,0.0
+BreadCrumb,37,0.0
+Candy,37,0.0
+Default,37,0.0
+Dip,37,0.0
+Instant,37,0.0
+Not Available,37,0.0
+Nut,37,311.84400000000005
+Powder,37,0.0
+Supplement,37,0.0
+Tobacco,37,0.0
+BreadCrumb,39,0.0
+Candy,39,0.0
+Default,39,0.0
+Dip,39,0.0
+Instant,39,0.0
+Not Available,39,0.0
+Nut,39,419.95199999999994
+Powder,39,0.0
+Supplement,39,37.584
+Tobacco,39,0.0
+BreadCrumb,40,0.0
+Candy,40,0.0
+Default,40,0.0
+Dip,40,0.0
+Instant,40,0.0
+Not Available,40,0.0
+Nut,40,841.4820000000001
+Powder,40,0.0
+Supplement,40,0.0
+Tobacco,40,0.0
+BreadCrumb,41,0.0
+Candy,41,0.0
+Default,41,0.0
+Dip,41,0.0
+Instant,41,0.0
+Not Available,41,0.0
+Nut,41,2345.111999999999
+Powder,41,0.0
+Supplement,41,0.0
+Tobacco,41,0.0
+BreadCrumb,42,0.0
+Candy,42,0.0
+Default,42,0.0
+Dip,42,0.0
+Instant,42,0.0
+Not Available,42,0.0
+Nut,42,603.332
+Powder,42,0.0
+Supplement,42,0.0
+Tobacco,42,0.0
+BreadCrumb,43,0.0
+Candy,43,0.0
+Default,43,0.0
+Dip,43,0.0
+Instant,43,0.0
+Not Available,43,0.0
+Nut,43,828.024
+Powder,43,0.0
+Supplement,43,0.0
+Tobacco,43,0.0
+BreadCrumb,44,0.0
+Candy,44,0.0
+Default,44,0.0
+Dip,44,0.0
+Instant,44,0.0
+Not Available,44,0.0
+Nut,44,2096.644
+Powder,44,0.0
+Supplement,44,0.0
+Tobacco,44,0.0
+BreadCrumb,46,0.0
+Candy,46,0.0
+Default,46,0.0
+Dip,46,0.0
+Instant,46,0.0
+Not Available,46,0.0
+Nut,46,758.0319999999998
+Powder,46,0.0
+Supplement,46,0.0
+Tobacco,46,0.0
+BreadCrumb,47,0.0
+Candy,47,0.0
+Default,47,0.0
+Dip,47,0.0
+Instant,47,0.0
+Not Available,47,0.0
+Nut,47,940.7439999999999
+Powder,47,0.0
+Supplement,47,0.0
+Tobacco,47,0.0
+BreadCrumb,48,185.07999999999998
+Candy,48,0.0
+Default,48,0.0
+Dip,48,0.0
+Instant,48,0.0
+Not Available,48,0.0
+Nut,48,850.932
+Powder,48,0.0
+Supplement,48,114.048
+Tobacco,48,0.0
+BreadCrumb,49,0.0
+Candy,49,0.0
+Default,49,0.0
+Dip,49,0.0
+Instant,49,0.0
+Not Available,49,0.0
+Nut,49,645.28
+Powder,49,0.0
+Supplement,49,0.0
+Tobacco,49,0.0
+BreadCrumb,50,166.32
+Candy,50,0.0
+Default,50,0.0
+Dip,50,0.0
+Instant,50,0.0
+Not Available,50,0.0
+Nut,50,2144.092
+Powder,50,0.0
+Supplement,50,31.824
+Tobacco,50,0.0
+BreadCrumb,53,0.0
+Candy,53,0.0
+Default,53,0.0
+Dip,53,0.0
+Instant,53,0.0
+Not Available,53,0.0
+Nut,53,2084.256
+Powder,53,0.0
+Supplement,53,0.0
+Tobacco,53,149.61599999999999
+BreadCrumb,54,0.0
+Candy,54,0.0
+Default,54,0.0
+Dip,54,0.0
+Instant,54,0.0
+Not Available,54,0.0
+Nut,54,501.696
+Powder,54,0.0
+Supplement,54,0.0
+Tobacco,54,0.0
+BreadCrumb,55,0.0
+Candy,55,0.0
+Default,55,0.0
+Dip,55,0.0
+Instant,55,0.0
+Not Available,55,0.0
+Nut,55,686.25
+Powder,55,0.0
+Supplement,55,175.0
+Tobacco,55,0.0
+BreadCrumb,56,0.0
+Candy,56,0.0
+Default,56,0.0
+Dip,56,0.0
+Instant,56,0.0
+Not Available,56,0.0
+Nut,56,744.9800000000001
+Powder,56,0.0
+Supplement,56,0.0
+Tobacco,56,0.0
+BreadCrumb,57,0.0
+Candy,57,0.0
+Default,57,0.0
+Dip,57,0.0
+Instant,57,0.0
+Not Available,57,0.0
+Nut,57,2155.212
+Powder,57,0.0
+Supplement,57,36.288
+Tobacco,57,0.0
+BreadCrumb,60,0.0
+Candy,60,0.0
+Default,60,0.0
+Dip,60,0.0
+Instant,60,0.0
+Not Available,60,0.0
+Nut,60,671.2759999999998
+Powder,60,0.0
+Supplement,60,0.0
+Tobacco,60,0.0
+BreadCrumb,61,0.0
+Candy,61,0.0
+Default,61,0.0
+Dip,61,0.0
+Instant,61,0.0
+Not Available,61,0.0
+Nut,61,704.032
+Powder,61,0.0
+Supplement,61,55.728
+Tobacco,61,0.0
+BreadCrumb,62,0.0
+Candy,62,0.0
+Default,62,0.0
+Dip,62,0.0
+Instant,62,0.0
+Not Available,62,0.0
+Nut,62,982.8919999999997
+Powder,62,0.0
+Supplement,62,55.728
+Tobacco,62,0.0
+BreadCrumb,63,0.0
+Candy,63,0.0
+Default,63,0.0
+Dip,63,0.0
+Instant,63,0.0
+Not Available,63,0.0
+Nut,63,272.376
+Powder,63,0.0
+Supplement,63,0.0
+Tobacco,63,0.0
+BreadCrumb,64,0.0
+Candy,64,60.0
+Default,64,0.0
+Dip,64,0.0
+Instant,64,0.0
+Not Available,64,0.0
+Nut,64,2720.7799999999993
+Powder,64,0.0
+Supplement,64,0.0
+Tobacco,64,0.0
+BreadCrumb,67,166.32
+Candy,67,0.0
+Default,67,0.0
+Dip,67,0.0
+Instant,67,0.0
+Not Available,67,0.0
+Nut,67,1105.6800000000003
+Powder,67,0.0
+Supplement,67,0.0
+Tobacco,67,0.0
+BreadCrumb,68,0.0
+Candy,68,0.0
+Default,68,0.0
+Dip,68,0.0
+Instant,68,0.0
+Not Available,68,0.0
+Nut,68,626.1519999999999
+Powder,68,0.0
+Supplement,68,0.0
+Tobacco,68,0.0
+BreadCrumb,69,185.07999999999998
+Candy,69,0.0
+Default,69,0.0
+Dip,69,0.0
+Instant,69,0.0
+Not Available,69,0.0
+Nut,69,251.94
+Powder,69,0.0
+Supplement,69,173.58599999999998
+Tobacco,69,0.0
+BreadCrumb,71,0.0
+Candy,71,0.0
+Default,71,0.0
+Dip,71,0.0
+Instant,71,0.0
+Not Available,71,0.0
+Nut,71,700.6759999999999
+Powder,71,0.0
+Supplement,71,0.0
+Tobacco,71,0.0
+BreadCrumb,74,0.0
+Candy,74,0.0
+Default,74,0.0
+Dip,74,0.0
+Instant,74,0.0
+Not Available,74,0.0
+Nut,74,2521.812
+Powder,74,0.0
+Supplement,74,0.0
+Tobacco,74,0.0
+BreadCrumb,75,0.0
+Candy,75,0.0
+Default,75,0.0
+Dip,75,0.0
+Instant,75,0.0
+Not Available,75,0.0
+Nut,75,755.2479999999999
+Powder,75,0.0
+Supplement,75,62.208
+Tobacco,75,0.0
+BreadCrumb,76,0.0
+Candy,76,0.0
+Default,76,0.0
+Dip,76,0.0
+Instant,76,0.0
+Not Available,76,0.0
+Nut,76,530.3159999999999
+Powder,76,0.0
+Supplement,76,0.0
+Tobacco,76,0.0
+BreadCrumb,77,0.0
+Candy,77,0.0
+Default,77,0.0
+Dip,77,0.0
+Instant,77,0.0
+Not Available,77,0.0
+Nut,77,1961.352
+Powder,77,0.0
+Supplement,77,0.0
+Tobacco,77,0.0
+BreadCrumb,78,0.0
+Candy,78,0.0
+Default,78,0.0
+Dip,78,0.0
+Instant,78,0.0
+Not Available,78,0.0
+Nut,78,848.9000000000001
+Powder,78,0.0
+Supplement,78,0.0
+Tobacco,78,0.0
+BreadCrumb,81,0.0
+Candy,81,0.0
+Default,81,0.0
+Dip,81,0.0
+Instant,81,0.0
+Not Available,81,0.0
+Nut,81,2661.884
+Powder,81,0.0
+Supplement,81,50.0
+Tobacco,81,0.0
+BreadCrumb,82,0.0
+Candy,82,0.0
+Default,82,0.0
+Dip,82,0.0
+Instant,82,0.0
+Not Available,82,0.0
+Nut,82,836.4820000000002
+Powder,82,0.0
+Supplement,82,0.0
+Tobacco,82,0.0
+BreadCrumb,83,0.0
+Candy,83,0.0
+Default,83,0.0
+Dip,83,0.0
+Instant,83,0.0
+Not Available,83,0.0
+Nut,83,697.746
+Powder,83,0.0
+Supplement,83,41.184
+Tobacco,83,0.0
+BreadCrumb,84,0.0
+Candy,84,0.0
+Default,84,0.0
+Dip,84,0.0
+Instant,84,0.0
+Not Available,84,0.0
+Nut,84,477.08799999999997
+Powder,84,0.0
+Supplement,84,0.0
+Tobacco,84,0.0
+BreadCrumb,85,0.0
+Candy,85,0.0
+Default,85,0.0
+Dip,85,0.0
+Instant,85,0.0
+Not Available,85,0.0
+Nut,85,1035.704
+Powder,85,0.0
+Supplement,85,0.0
+Tobacco,85,0.0
+BreadCrumb,88,0.0
+Candy,88,0.0
+Default,88,0.0
+Dip,88,0.0
+Instant,88,0.0
+Not Available,88,0.0
+Nut,88,1596.0
+Powder,88,0.0
+Supplement,88,0.0
+Tobacco,88,0.0
+BreadCrumb,90,0.0
+Candy,90,0.0
+Default,90,0.0
+Dip,90,0.0
+Instant,90,0.0
+Not Available,90,0.0
+Nut,90,717.336
+Powder,90,0.0
+Supplement,90,0.0
+Tobacco,90,0.0
+BreadCrumb,91,0.0
+Candy,91,0.0
+Default,91,0.0
+Dip,91,0.0
+Instant,91,0.0
+Not Available,91,0.0
+Nut,91,371.592
+Powder,91,0.0
+Supplement,91,0.0
+Tobacco,91,0.0
+BreadCrumb,92,0.0
+Candy,92,0.0
+Default,92,0.0
+Dip,92,0.0
+Instant,92,0.0
+Not Available,92,0.0
+Nut,92,2089.368
+Powder,92,0.0
+Supplement,92,0.0
+Tobacco,92,0.0
+BreadCrumb,95,0.0
+Candy,95,0.0
+Default,95,0.0
+Dip,95,0.0
+Instant,95,0.0
+Not Available,95,0.0
+Nut,95,393.504
+Powder,95,0.0
+Supplement,95,0.0
+Tobacco,95,0.0
+BreadCrumb,96,166.32
+Candy,96,0.0
+Default,96,0.0
+Dip,96,0.0
+Instant,96,0.0
+Not Available,96,0.0
+Nut,96,907.0120000000001
+Powder,96,0.0
+Supplement,96,0.0
+Tobacco,96,0.0
+BreadCrumb,97,0.0
+Candy,97,0.0
+Default,97,0.0
+Dip,97,0.0
+Instant,97,0.0
+Not Available,97,0.0
+Nut,97,580.936
+Powder,97,0.0
+Supplement,97,0.0
+Tobacco,97,0.0
+BreadCrumb,98,0.0
+Candy,98,0.0
+Default,98,0.0
+Dip,98,0.0
+Instant,98,0.0
+Not Available,98,0.0
+Nut,98,337.116
+Powder,98,0.0
+Supplement,98,0.0
+Tobacco,98,0.0
+BreadCrumb,99,0.0
+Candy,99,0.0
+Default,99,0.0
+Dip,99,0.0
+Instant,99,0.0
+Not Available,99,0.0
+Nut,99,2273.7119999999995
+Powder,99,0.0
+Supplement,99,229.608
+Tobacco,99,0.0
+BreadCrumb,100,0.0
+Candy,100,0.0
+Default,100,0.0
+Dip,100,0.0
+Instant,100,0.0
+Not Available,100,0.0
+Nut,100,546.956
+Powder,100,0.0
+Supplement,100,0.0
+Tobacco,100,0.0
+BreadCrumb,102,0.0
+Candy,102,0.0
+Default,102,0.0
+Dip,102,0.0
+Instant,102,0.0
+Not Available,102,0.0
+Nut,102,920.9119999999998
+Powder,102,0.0
+Supplement,102,0.0
+Tobacco,102,0.0
+BreadCrumb,103,0.0
+Candy,103,0.0
+Default,103,0.0
+Dip,103,0.0
+Instant,103,0.0
+Not Available,103,0.0
+Nut,103,648.516
+Powder,103,0.0
+Supplement,103,0.0
+Tobacco,103,0.0
+BreadCrumb,104,0.0
+Candy,104,0.0
+Default,104,0.0
+Dip,104,0.0
+Instant,104,0.0
+Not Available,104,0.0
+Nut,104,360.336
+Powder,104,0.0
+Supplement,104,41.184
+Tobacco,104,0.0
+BreadCrumb,105,0.0
+Candy,105,0.0
+Default,105,0.0
+Dip,105,0.0
+Instant,105,0.0
+Not Available,105,0.0
+Nut,105,575.528
+Powder,105,0.0
+Supplement,105,0.0
+Tobacco,105,0.0
+BreadCrumb,106,0.0
+Candy,106,48.672
+Default,106,0.0
+Dip,106,0.0
+Instant,106,0.0
+Not Available,106,0.0
+Nut,106,2088.0640000000008
+Powder,106,0.0
+Supplement,106,0.0
+Tobacco,106,0.0
+BreadCrumb,109,0.0
+Candy,109,0.0
+Default,109,0.0
+Dip,109,0.0
+Instant,109,0.0
+Not Available,109,0.0
+Nut,109,860.76
+Powder,109,0.0
+Supplement,109,0.0
+Tobacco,109,0.0
+BreadCrumb,110,0.0
+Candy,110,0.0
+Default,110,0.0
+Dip,110,0.0
+Instant,110,0.0
+Not Available,110,0.0
+Nut,110,858.284
+Powder,110,0.0
+Supplement,110,0.0
+Tobacco,110,0.0
+BreadCrumb,111,0.0
+Candy,111,0.0
+Default,111,0.0
+Dip,111,0.0
+Instant,111,0.0
+Not Available,111,0.0
+Nut,111,536.802
+Powder,111,0.0
+Supplement,111,82.944
+Tobacco,111,0.0
+BreadCrumb,112,0.0
+Candy,112,0.0
+Default,112,0.0
+Dip,112,0.0
+Instant,112,0.0
+Not Available,112,0.0
+Nut,112,861.3639999999999
+Powder,112,0.0
+Supplement,112,0.0
+Tobacco,112,0.0
+BreadCrumb,113,0.0
+Candy,113,0.0
+Default,113,0.0
+Dip,113,0.0
+Instant,113,0.0
+Not Available,113,0.0
+Nut,113,1875.5520000000001
+Powder,113,0.0
+Supplement,113,50.0
+Tobacco,113,0.0
+BreadCrumb,116,0.0
+Candy,116,0.0
+Default,116,0.0
+Dip,116,0.0
+Instant,116,0.0
+Not Available,116,0.0
+Nut,116,379.08000000000004
+Powder,116,0.0
+Supplement,116,0.0
+Tobacco,116,0.0
+BreadCrumb,117,0.0
+Candy,117,0.0
+Default,117,0.0
+Dip,117,0.0
+Instant,117,0.0
+Not Available,117,0.0
+Nut,117,395.46
+Powder,117,0.0
+Supplement,117,0.0
+Tobacco,117,0.0
+BreadCrumb,118,0.0
+Candy,118,0.0
+Default,118,0.0
+Dip,118,0.0
+Instant,118,0.0
+Not Available,118,0.0
+Nut,118,2061.66
+Powder,118,0.0
+Supplement,118,0.0
+Tobacco,118,0.0
+BreadCrumb,119,0.0
+Candy,119,0.0
+Default,119,0.0
+Dip,119,0.0
+Instant,119,0.0
+Not Available,119,0.0
+Nut,119,559.0359999999998
+Powder,119,0.0
+Supplement,119,0.0
+Tobacco,119,0.0
+BreadCrumb,120,166.32
+Candy,120,0.0
+Default,120,0.0
+Dip,120,0.0
+Instant,120,0.0
+Not Available,120,0.0
+Nut,120,471.31600000000003
+Powder,120,0.0
+Supplement,120,0.0
+Tobacco,120,45.239999999999995
+BreadCrumb,124,0.0
+Candy,124,0.0
+Default,124,0.0
+Dip,124,0.0
+Instant,124,0.0
+Not Available,124,0.0
+Nut,124,0.0
+Powder,124,0.0
+Supplement,124,80.0
+Tobacco,124,0.0
+BreadCrumb,127,0.0
+Candy,127,0.0
+Default,127,0.0
+Dip,127,0.0
+Instant,127,0.0
+Not Available,127,0.0
+Nut,127,1659.18
+Powder,127,0.0
+Supplement,127,0.0
+Tobacco,127,0.0
+BreadCrumb,130,0.0
+Candy,130,0.0
+Default,130,0.0
+Dip,130,0.0
+Instant,130,0.0
+Not Available,130,0.0
+Nut,130,848.8720000000001
+Powder,130,0.0
+Supplement,130,0.0
+Tobacco,130,0.0
+BreadCrumb,131,0.0
+Candy,131,0.0
+Default,131,0.0
+Dip,131,0.0
+Instant,131,0.0
+Not Available,131,0.0
+Nut,131,820.144
+Powder,131,0.0
+Supplement,131,50.544
+Tobacco,131,0.0
+BreadCrumb,132,185.07999999999998
+Candy,132,0.0
+Default,132,0.0
+Dip,132,0.0
+Instant,132,0.0
+Not Available,132,0.0
+Nut,132,687.364
+Powder,132,0.0
+Supplement,132,46.08
+Tobacco,132,0.0
+BreadCrumb,133,0.0
+Candy,133,0.0
+Default,133,0.0
+Dip,133,0.0
+Instant,133,0.0
+Not Available,133,0.0
+Nut,133,545.2199999999999
+Powder,133,0.0
+Supplement,133,22.464000000000002
+Tobacco,133,0.0
+BreadCrumb,134,0.0
+Candy,134,0.0
+Default,134,0.0
+Dip,134,0.0
+Instant,134,0.0
+Not Available,134,0.0
+Nut,134,2137.212
+Powder,134,0.0
+Supplement,134,0.0
+Tobacco,134,0.0
+BreadCrumb,137,0.0
+Candy,137,0.0
+Default,137,0.0
+Dip,137,0.0
+Instant,137,0.0
+Not Available,137,0.0
+Nut,137,1209.624
+Powder,137,0.0
+Supplement,137,0.0
+Tobacco,137,0.0
+BreadCrumb,138,0.0
+Candy,138,0.0
+Default,138,0.0
+Dip,138,0.0
+Instant,138,0.0
+Not Available,138,0.0
+Nut,138,624.7800000000001
+Powder,138,0.0
+Supplement,138,0.0
+Tobacco,138,0.0
+BreadCrumb,139,0.0
+Candy,139,0.0
+Default,139,0.0
+Dip,139,0.0
+Instant,139,0.0
+Not Available,139,0.0
+Nut,139,877.1320000000002
+Powder,139,0.0
+Supplement,139,88.44800000000001
+Tobacco,139,0.0
+BreadCrumb,140,0.0
+Candy,140,0.0
+Default,140,0.0
+Dip,140,0.0
+Instant,140,0.0
+Not Available,140,0.0
+Nut,140,750.4480000000001
+Powder,140,0.0
+Supplement,140,0.0
+Tobacco,140,0.0
+BreadCrumb,141,0.0
+Candy,141,0.0
+Default,141,0.0
+Dip,141,0.0
+Instant,141,0.0
+Not Available,141,0.0
+Nut,141,953.7719999999998
+Powder,141,0.0
+Supplement,141,0.0
+Tobacco,141,0.0
+BreadCrumb,144,0.0
+Candy,144,0.0
+Default,144,0.0
+Dip,144,0.0
+Instant,144,0.0
+Not Available,144,0.0
+Nut,144,2300.4759999999997
+Powder,144,0.0
+Supplement,144,0.0
+Tobacco,144,0.0
+BreadCrumb,145,0.0
+Candy,145,0.0
+Default,145,0.0
+Dip,145,0.0
+Instant,145,0.0
+Not Available,145,0.0
+Nut,145,357.30000000000007
+Powder,145,0.0
+Supplement,145,102.5
+Tobacco,145,0.0
+BreadCrumb,146,0.0
+Candy,146,0.0
+Default,146,0.0
+Dip,146,0.0
+Instant,146,0.0
+Not Available,146,0.0
+Nut,146,1995.5159999999998
+Powder,146,0.0
+Supplement,146,0.0
+Tobacco,146,0.0
+BreadCrumb,147,0.0
+Candy,147,0.0
+Default,147,0.0
+Dip,147,0.0
+Instant,147,0.0
+Not Available,147,0.0
+Nut,147,530.644
+Powder,147,0.0
+Supplement,147,0.0
+Tobacco,147,0.0
+BreadCrumb,148,0.0
+Candy,148,0.0
+Default,148,0.0
+Dip,148,0.0
+Instant,148,0.0
+Not Available,148,0.0
+Nut,148,259.89599999999996
+Powder,148,0.0
+Supplement,148,0.0
+Tobacco,148,0.0
+BreadCrumb,152,166.32
+Candy,152,0.0
+Default,152,0.0
+Dip,152,0.0
+Instant,152,0.0
+Not Available,152,0.0
+Nut,152,955.1279999999999
+Powder,152,0.0
+Supplement,152,0.0
+Tobacco,152,0.0
+BreadCrumb,153,0.0
+Candy,153,0.0
+Default,153,0.0
+Dip,153,0.0
+Instant,153,0.0
+Not Available,153,0.0
+Nut,153,746.616
+Powder,153,0.0
+Supplement,153,0.0
+Tobacco,153,0.0
+BreadCrumb,154,0.0
+Candy,154,0.0
+Default,154,0.0
+Dip,154,0.0
+Instant,154,0.0
+Not Available,154,0.0
+Nut,154,526.5
+Powder,154,0.0
+Supplement,154,0.0
+Tobacco,154,0.0
+BreadCrumb,155,0.0
+Candy,155,0.0
+Default,155,0.0
+Dip,155,0.0
+Instant,155,0.0
+Not Available,155,0.0
+Nut,155,2172.312
+Powder,155,0.0
+Supplement,155,0.0
+Tobacco,155,0.0
+BreadCrumb,158,0.0
+Candy,158,0.0
+Default,158,0.0
+Dip,158,0.0
+Instant,158,0.0
+Not Available,158,0.0
+Nut,158,609.5240000000001
+Powder,158,0.0
+Supplement,158,0.0
+Tobacco,158,0.0
+BreadCrumb,159,0.0
+Candy,159,0.0
+Default,159,0.0
+Dip,159,0.0
+Instant,159,0.0
+Not Available,159,0.0
+Nut,159,962.688
+Powder,159,0.0
+Supplement,159,0.0
+Tobacco,159,0.0
+BreadCrumb,160,0.0
+Candy,160,0.0
+Default,160,0.0
+Dip,160,0.0
+Instant,160,0.0
+Not Available,160,0.0
+Nut,160,864.3319999999999
+Powder,160,0.0
+Supplement,160,193.97
+Tobacco,160,0.0
+BreadCrumb,161,0.0
+Candy,161,0.0
+Default,161,0.0
+Dip,161,0.0
+Instant,161,0.0
+Not Available,161,0.0
+Nut,161,228.424
+Powder,161,0.0
+Supplement,161,51.839999999999996
+Tobacco,161,0.0
+BreadCrumb,162,0.0
+Candy,162,0.0
+Default,162,0.0
+Dip,162,0.0
+Instant,162,0.0
+Not Available,162,0.0
+Nut,162,306.61199999999997
+Powder,162,0.0
+Supplement,162,0.0
+Tobacco,162,0.0
+BreadCrumb,165,0.0
+Candy,165,0.0
+Default,165,0.0
+Dip,165,0.0
+Instant,165,0.0
+Not Available,165,0.0
+Nut,165,2259.1760000000004
+Powder,165,0.0
+Supplement,165,0.0
+Tobacco,165,0.0
+BreadCrumb,166,0.0
+Candy,166,0.0
+Default,166,0.0
+Dip,166,0.0
+Instant,166,0.0
+Not Available,166,0.0
+Nut,166,2030.244
+Powder,166,0.0
+Supplement,166,0.0
+Tobacco,166,0.0
+BreadCrumb,167,0.0
+Candy,167,0.0
+Default,167,0.0
+Dip,167,0.0
+Instant,167,0.0
+Not Available,167,0.0
+Nut,167,1217.2680000000005
+Powder,167,0.0
+Supplement,167,25.92
+Tobacco,167,0.0
+BreadCrumb,168,0.0
+Candy,168,0.0
+Default,168,0.0
+Dip,168,0.0
+Instant,168,0.0
+Not Available,168,0.0
+Nut,168,1054.502
+Powder,168,0.0
+Supplement,168,0.0
+Tobacco,168,0.0
+BreadCrumb,172,0.0
+Candy,172,60.0
+Default,172,0.0
+Dip,172,0.0
+Instant,172,0.0
+Not Available,172,0.0
+Nut,172,620.468
+Powder,172,0.0
+Supplement,172,0.0
+Tobacco,172,0.0
+BreadCrumb,173,185.07999999999998
+Candy,173,0.0
+Default,173,0.0
+Dip,173,0.0
+Instant,173,0.0
+Not Available,173,159.6
+Nut,173,495.7439999999999
+Powder,173,0.0
+Supplement,173,0.0
+Tobacco,173,0.0
+BreadCrumb,174,0.0
+Candy,174,0.0
+Default,174,0.0
+Dip,174,0.0
+Instant,174,0.0
+Not Available,174,0.0
+Nut,174,727.8
+Powder,174,0.0
+Supplement,174,95.904
+Tobacco,174,0.0
+BreadCrumb,175,0.0
+Candy,175,0.0
+Default,175,0.0
+Dip,175,0.0
+Instant,175,0.0
+Not Available,175,0.0
+Nut,175,751.608
+Powder,175,0.0
+Supplement,175,100.0
+Tobacco,175,0.0
+BreadCrumb,176,0.0
+Candy,176,0.0
+Default,176,0.0
+Dip,176,0.0
+Instant,176,0.0
+Not Available,176,0.0
+Nut,176,1596.0
+Powder,176,0.0
+Supplement,176,0.0
+Tobacco,176,0.0
+BreadCrumb,179,0.0
+Candy,179,0.0
+Default,179,0.0
+Dip,179,0.0
+Instant,179,0.0
+Not Available,179,0.0
+Nut,179,737.966
+Powder,179,0.0
+Supplement,179,0.0
+Tobacco,179,0.0
+BreadCrumb,180,0.0
+Candy,180,0.0
+Default,180,0.0
+Dip,180,0.0
+Instant,180,0.0
+Not Available,180,0.0
+Nut,180,321.98400000000004
+Powder,180,0.0
+Supplement,180,0.0
+Tobacco,180,0.0
+BreadCrumb,181,0.0
+Candy,181,0.0
+Default,181,0.0
+Dip,181,0.0
+Instant,181,0.0
+Not Available,181,0.0
+Nut,181,461.1599999999999
+Powder,181,0.0
+Supplement,181,74.88
+Tobacco,181,0.0
+BreadCrumb,182,0.0
+Candy,182,0.0
+Default,182,0.0
+Dip,182,0.0
+Instant,182,0.0
+Not Available,182,0.0
+Nut,182,837.7
+Powder,182,0.0
+Supplement,182,163.332
+Tobacco,182,0.0
+BreadCrumb,187,0.0
+Candy,187,0.0
+Default,187,0.0
+Dip,187,0.0
+Instant,187,0.0
+Not Available,187,0.0
+Nut,187,183.5
+Powder,187,0.0
+Supplement,187,0.0
+Tobacco,187,0.0
+BreadCrumb,188,0.0
+Candy,188,0.0
+Default,188,0.0
+Dip,188,40.176
+Instant,188,0.0
+Not Available,188,0.0
+Nut,188,2223.756
+Powder,188,0.0
+Supplement,188,50.0
+Tobacco,188,0.0
+BreadCrumb,189,166.32
+Candy,189,0.0
+Default,189,0.0
+Dip,189,0.0
+Instant,189,0.0
+Not Available,189,0.0
+Nut,189,723.0119999999998
+Powder,189,0.0
+Supplement,189,0.0
+Tobacco,189,0.0
+BreadCrumb,190,0.0
+Candy,190,0.0
+Default,190,0.0
+Dip,190,0.0
+Instant,190,0.0
+Not Available,190,0.0
+Nut,190,794.8760000000001
+Powder,190,0.0
+Supplement,190,0.0
+Tobacco,190,0.0
+BreadCrumb,193,0.0
+Candy,193,0.0
+Default,193,0.0
+Dip,193,0.0
+Instant,193,0.0
+Not Available,193,0.0
+Nut,193,693.916
+Powder,193,0.0
+Supplement,193,0.0
+Tobacco,193,0.0
+BreadCrumb,194,0.0
+Candy,194,0.0
+Default,194,0.0
+Dip,194,0.0
+Instant,194,0.0
+Not Available,194,0.0
+Nut,194,389.37600000000003
+Powder,194,0.0
+Supplement,194,0.0
+Tobacco,194,0.0
+BreadCrumb,195,0.0
+Candy,195,0.0
+Default,195,0.0
+Dip,195,0.0
+Instant,195,0.0
+Not Available,195,0.0
+Nut,195,844.1879999999999
+Powder,195,0.0
+Supplement,195,96.8
+Tobacco,195,0.0
+BreadCrumb,196,0.0
+Candy,196,0.0
+Default,196,0.0
+Dip,196,0.0
+Instant,196,0.0
+Not Available,196,0.0
+Nut,196,243.51599999999996
+Powder,196,0.0
+Supplement,196,0.0
+Tobacco,196,0.0
+BreadCrumb,197,0.0
+Candy,197,0.0
+Default,197,0.0
+Dip,197,10.368
+Instant,197,0.0
+Not Available,197,0.0
+Nut,197,1944.924
+Powder,197,0.0
+Supplement,197,0.0
+Tobacco,197,0.0
+BreadCrumb,200,0.0
+Candy,200,0.0
+Default,200,0.0
+Dip,200,0.0
+Instant,200,0.0
+Not Available,200,0.0
+Nut,200,968.444
+Powder,200,0.0
+Supplement,200,58.678
+Tobacco,200,0.0
+BreadCrumb,201,0.0
+Candy,201,0.0
+Default,201,0.0
+Dip,201,0.0
+Instant,201,0.0
+Not Available,201,0.0
+Nut,201,865.3879999999999
+Powder,201,0.0
+Supplement,201,36.25
+Tobacco,201,0.0
+BreadCrumb,202,0.0
+Candy,202,0.0
+Default,202,0.0
+Dip,202,0.0
+Instant,202,0.0
+Not Available,202,0.0
+Nut,202,884.8559999999999
+Powder,202,0.0
+Supplement,202,0.0
+Tobacco,202,0.0
+BreadCrumb,203,0.0
+Candy,203,0.0
+Default,203,0.0
+Dip,203,0.0
+Instant,203,0.0
+Not Available,203,0.0
+Nut,203,517.296
+Powder,203,0.0
+Supplement,203,0.0
+Tobacco,203,0.0
+BreadCrumb,204,0.0
+Candy,204,0.0
+Default,204,0.0
+Dip,204,0.0
+Instant,204,0.0
+Not Available,204,0.0
+Nut,204,2407.6199999999994
+Powder,204,0.0
+Supplement,204,0.0
+Tobacco,204,0.0
+BreadCrumb,205,0.0
+Candy,205,0.0
+Default,205,0.0
+Dip,205,0.0
+Instant,205,0.0
+Not Available,205,0.0
+Nut,205,320.42400000000004
+Powder,205,0.0
+Supplement,205,0.0
+Tobacco,205,0.0
+BreadCrumb,207,0.0
+Candy,207,0.0
+Default,207,0.0
+Dip,207,0.0
+Instant,207,0.0
+Not Available,207,0.0
+Nut,207,724.5740000000001
+Powder,207,0.0
+Supplement,207,50.0
+Tobacco,207,0.0
+BreadCrumb,208,0.0
+Candy,208,0.0
+Default,208,0.0
+Dip,208,0.0
+Instant,208,0.0
+Not Available,208,0.0
+Nut,208,521.664
+Powder,208,0.0
+Supplement,208,0.0
+Tobacco,208,0.0
+BreadCrumb,209,0.0
+Candy,209,0.0
+Default,209,0.0
+Dip,209,0.0
+Instant,209,0.0
+Not Available,209,0.0
+Nut,209,2241.0719999999997
+Powder,209,0.0
+Supplement,209,0.0
+Tobacco,209,0.0
+BreadCrumb,210,0.0
+Candy,210,0.0
+Default,210,0.0
+Dip,210,0.0
+Instant,210,0.0
+Not Available,210,0.0
+Nut,210,459.42
+Powder,210,0.0
+Supplement,210,0.0
+Tobacco,210,0.0
+BreadCrumb,211,0.0
+Candy,211,0.0
+Default,211,0.0
+Dip,211,0.0
+Instant,211,0.0
+Not Available,211,0.0
+Nut,211,625.776
+Powder,211,0.0
+Supplement,211,0.0
+Tobacco,211,0.0
+BreadCrumb,214,0.0
+Candy,214,0.0
+Default,214,0.0
+Dip,214,0.0
+Instant,214,0.0
+Not Available,214,0.0
+Nut,214,1596.0
+Powder,214,0.0
+Supplement,214,0.0
+Tobacco,214,0.0
+BreadCrumb,215,0.0
+Candy,215,0.0
+Default,215,0.0
+Dip,215,0.0
+Instant,215,0.0
+Not Available,215,0.0
+Nut,215,981.064
+Powder,215,0.0
+Supplement,215,0.0
+Tobacco,215,0.0
+BreadCrumb,216,0.0
+Candy,216,0.0
+Default,216,0.0
+Dip,216,0.0
+Instant,216,0.0
+Not Available,216,0.0
+Nut,216,541.1719999999999
+Powder,216,0.0
+Supplement,216,0.0
+Tobacco,216,0.0
+BreadCrumb,217,0.0
+Candy,217,0.0
+Default,217,0.0
+Dip,217,2.5
+Instant,217,0.0
+Not Available,217,0.0
+Nut,217,1007.2039999999998
+Powder,217,0.0
+Supplement,217,0.0
+Tobacco,217,0.0
+BreadCrumb,218,0.0
+Candy,218,0.0
+Default,218,0.0
+Dip,218,0.0
+Instant,218,0.0
+Not Available,218,0.0
+Nut,218,2747.444
+Powder,218,17.5
+Supplement,218,0.0
+Tobacco,218,0.0
+BreadCrumb,219,0.0
+Candy,219,0.0
+Default,219,0.0
+Dip,219,0.0
+Instant,219,0.0
+Not Available,219,0.0
+Nut,219,1040.4759999999999
+Powder,219,0.0
+Supplement,219,0.0
+Tobacco,219,0.0
+BreadCrumb,220,0.0
+Candy,220,0.0
+Default,220,0.0
+Dip,220,0.0
+Instant,220,0.0
+Not Available,220,0.0
+Nut,220,365.47599999999994
+Powder,220,0.0
+Supplement,220,0.0
+Tobacco,220,0.0
+BreadCrumb,221,0.0
+Candy,221,0.0
+Default,221,0.0
+Dip,221,0.0
+Instant,221,0.0
+Not Available,221,0.0
+Nut,221,2338.1519999999996
+Powder,221,0.0
+Supplement,221,0.0
+Tobacco,221,0.0
+BreadCrumb,222,0.0
+Candy,222,0.0
+Default,222,0.0
+Dip,222,0.0
+Instant,222,0.0
+Not Available,222,0.0
+Nut,222,632.856
+Powder,222,0.0
+Supplement,222,0.0
+Tobacco,222,0.0
+BreadCrumb,223,0.0
+Candy,223,0.0
+Default,223,0.0
+Dip,223,0.0
+Instant,223,0.0
+Not Available,223,0.0
+Nut,223,2274.2239999999993
+Powder,223,0.0
+Supplement,223,53.135999999999996
+Tobacco,223,0.0
+BreadCrumb,224,0.0
+Candy,224,0.0
+Default,224,0.0
+Dip,224,0.0
+Instant,224,0.0
+Not Available,224,0.0
+Nut,224,863.1539999999999
+Powder,224,0.0
+Supplement,224,36.864000000000004
+Tobacco,224,0.0
+BreadCrumb,225,0.0
+Candy,225,0.0
+Default,225,0.0
+Dip,225,0.0
+Instant,225,0.0
+Not Available,225,0.0
+Nut,225,976.1840000000001
+Powder,225,0.0
+Supplement,225,0.0
+Tobacco,225,0.0
+BreadCrumb,226,0.0
+Candy,226,0.0
+Default,226,0.0
+Dip,226,0.0
+Instant,226,0.0
+Not Available,226,0.0
+Nut,226,679.256
+Powder,226,0.0
+Supplement,226,0.0
+Tobacco,226,0.0
+BreadCrumb,227,0.0
+Candy,227,0.0
+Default,227,0.0
+Dip,227,0.0
+Instant,227,0.0
+Not Available,227,0.0
+Nut,227,848.8
+Powder,227,0.0
+Supplement,227,0.0
+Tobacco,227,0.0
+BreadCrumb,228,0.0
+Candy,228,0.0
+Default,228,0.0
+Dip,228,0.0
+Instant,228,0.0
+Not Available,228,0.0
+Nut,228,836.516
+Powder,228,0.0
+Supplement,228,16.848
+Tobacco,228,0.0
+BreadCrumb,229,370.16
+Candy,229,48.672
+Default,229,0.0
+Dip,229,0.0
+Instant,229,0.0
+Not Available,229,0.0
+Nut,229,519.9000000000001
+Powder,229,0.0
+Supplement,229,0.0
+Tobacco,229,0.0
+BreadCrumb,230,0.0
+Candy,230,0.0
+Default,230,0.0
+Dip,230,0.0
+Instant,230,0.0
+Not Available,230,0.0
+Nut,230,749.6999999999999
+Powder,230,0.0
+Supplement,230,0.0
+Tobacco,230,0.0
+BreadCrumb,231,0.0
+Candy,231,0.0
+Default,231,0.0
+Dip,231,0.0
+Instant,231,0.0
+Not Available,231,0.0
+Nut,231,539.292
+Powder,231,0.0
+Supplement,231,23.75
+Tobacco,231,0.0
+BreadCrumb,232,0.0
+Candy,232,0.0
+Default,232,0.0
+Dip,232,22.5
+Instant,232,0.0
+Not Available,232,0.0
+Nut,232,3225.7279999999996
+Powder,232,0.0
+Supplement,232,0.0
+Tobacco,232,0.0
+BreadCrumb,233,0.0
+Candy,233,0.0
+Default,233,0.0
+Dip,233,0.0
+Instant,233,0.0
+Not Available,233,0.0
+Nut,233,284.124
+Powder,233,0.0
+Supplement,233,0.0
+Tobacco,233,0.0
+BreadCrumb,235,0.0
+Candy,235,0.0
+Default,235,0.0
+Dip,235,0.0
+Instant,235,0.0
+Not Available,235,0.0
+Nut,235,1241.7240000000002
+Powder,235,0.0
+Supplement,235,0.0
+Tobacco,235,0.0
+BreadCrumb,236,0.0
+Candy,236,0.0
+Default,236,0.0
+Dip,236,33.696
+Instant,236,11.232000000000001
+Not Available,236,7.2
+Nut,236,838.0479999999999
+Powder,236,11.664000000000001
+Supplement,236,0.0
+Tobacco,236,0.0
+BreadCrumb,237,0.0
+Candy,237,0.0
+Default,237,0.0
+Dip,237,0.0
+Instant,237,0.0
+Not Available,237,0.0
+Nut,237,2429.884000000001
+Powder,237,0.0
+Supplement,237,117.5
+Tobacco,237,0.0
+BreadCrumb,238,0.0
+Candy,238,0.0
+Default,238,0.0
+Dip,238,0.0
+Instant,238,0.0
+Not Available,238,0.0
+Nut,238,553.764
+Powder,238,0.0
+Supplement,238,0.0
+Tobacco,238,0.0
+BreadCrumb,239,0.0
+Candy,239,0.0
+Default,239,0.0
+Dip,239,0.0
+Instant,239,0.0
+Not Available,239,0.0
+Nut,239,809.8080000000002
+Powder,239,21.6
+Supplement,239,0.0
+Tobacco,239,0.0
+BreadCrumb,240,0.0
+Candy,240,0.0
+Default,240,0.0
+Dip,240,0.0
+Instant,240,0.0
+Not Available,240,0.0
+Nut,240,622.124
+Powder,240,0.0
+Supplement,240,0.0
+Tobacco,240,0.0
+BreadCrumb,241,0.0
+Candy,241,0.0
+Default,241,0.0
+Dip,241,0.0
+Instant,241,0.0
+Not Available,241,0.0
+Nut,241,851.248
+Powder,241,0.0
+Supplement,241,0.0
+Tobacco,241,0.0
+BreadCrumb,242,0.0
+Candy,242,0.0
+Default,242,0.0
+Dip,242,0.0
+Instant,242,0.0
+Not Available,242,0.0
+Nut,242,2064.552
+Powder,242,0.0
+Supplement,242,0.0
+Tobacco,242,0.0
+BreadCrumb,243,0.0
+Candy,243,0.0
+Default,243,0.0
+Dip,243,0.0
+Instant,243,0.0
+Not Available,243,0.0
+Nut,243,421.268
+Powder,243,0.0
+Supplement,243,0.0
+Tobacco,243,0.0
+BreadCrumb,244,0.0
+Candy,244,0.0
+Default,244,0.0
+Dip,244,0.0
+Instant,244,0.0
+Not Available,244,0.0
+Nut,244,608.792
+Powder,244,0.0
+Supplement,244,215.632
+Tobacco,244,0.0
+BreadCrumb,245,0.0
+Candy,245,0.0
+Default,245,0.0
+Dip,245,0.0
+Instant,245,0.0
+Not Available,245,0.0
+Nut,245,463.63199999999995
+Powder,245,0.0
+Supplement,245,0.0
+Tobacco,245,0.0
+BreadCrumb,246,0.0
+Candy,246,0.0
+Default,246,0.0
+Dip,246,0.0
+Instant,246,0.0
+Not Available,246,0.0
+Nut,246,1319.4880000000003
+Powder,246,0.0
+Supplement,246,0.0
+Tobacco,246,0.0
+BreadCrumb,250,0.0
+Candy,250,0.0
+Default,250,0.0
+Dip,250,0.0
+Instant,250,0.0
+Not Available,250,0.0
+Nut,250,2942.459999999999
+Powder,250,0.0
+Supplement,250,0.0
+Tobacco,250,0.0
+BreadCrumb,251,0.0
+Candy,251,0.0
+Default,251,0.0
+Dip,251,0.0
+Instant,251,0.0
+Not Available,251,0.0
+Nut,251,900.56
+Powder,251,0.0
+Supplement,251,25.200000000000003
+Tobacco,251,0.0
+BreadCrumb,252,0.0
+Candy,252,0.0
+Default,252,0.0
+Dip,252,0.0
+Instant,252,0.0
+Not Available,252,0.0
+Nut,252,604.308
+Powder,252,0.0
+Supplement,252,0.0
+Tobacco,252,0.0
+BreadCrumb,253,0.0
+Candy,253,0.0
+Default,253,0.0
+Dip,253,0.0
+Instant,253,0.0
+Not Available,253,0.0
+Nut,253,2291.5119999999997
+Powder,253,0.0
+Supplement,253,100.0
+Tobacco,253,0.0
+BreadCrumb,254,0.0
+Candy,254,0.0
+Default,254,0.0
+Dip,254,0.0
+Instant,254,0.0
+Not Available,254,0.0
+Nut,254,828.136
+Powder,254,0.0
+Supplement,254,0.0
+Tobacco,254,0.0
+BreadCrumb,255,0.0
+Candy,255,0.0
+Default,255,0.0
+Dip,255,0.0
+Instant,255,0.0
+Not Available,255,0.0
+Nut,255,585.744
+Powder,255,0.0
+Supplement,255,0.0
+Tobacco,255,0.0
+BreadCrumb,256,0.0
+Candy,256,0.0
+Default,256,0.0
+Dip,256,0.0
+Instant,256,0.0
+Not Available,256,0.0
+Nut,256,754.9840000000002
+Powder,256,0.0
+Supplement,256,0.0
+Tobacco,256,0.0
+BreadCrumb,257,0.0
+Candy,257,0.0
+Default,257,0.0
+Dip,257,0.0
+Instant,257,0.0
+Not Available,257,0.0
+Nut,257,1047.74
+Powder,257,0.0
+Supplement,257,0.0
+Tobacco,257,0.0
+BreadCrumb,258,0.0
+Candy,258,0.0
+Default,258,0.0
+Dip,258,0.0
+Instant,258,0.0
+Not Available,258,0.0
+Nut,258,2864.7160000000003
+Powder,258,0.0
+Supplement,258,0.0
+Tobacco,258,0.0
+BreadCrumb,259,0.0
+Candy,259,0.0
+Default,259,0.0
+Dip,259,0.0
+Instant,259,0.0
+Not Available,259,0.0
+Nut,259,608.244
+Powder,259,0.0
+Supplement,259,0.0
+Tobacco,259,0.0
+BreadCrumb,260,166.32
+Candy,260,0.0
+Default,260,0.0
+Dip,260,0.0
+Instant,260,0.0
+Not Available,260,0.0
+Nut,260,460.09600000000006
+Powder,260,57.023999999999994
+Supplement,260,0.0
+Tobacco,260,96.732
+BreadCrumb,261,0.0
+Candy,261,0.0
+Default,261,0.0
+Dip,261,0.0
+Instant,261,0.0
+Not Available,261,0.0
+Nut,261,332.43600000000004
+Powder,261,0.0
+Supplement,261,0.0
+Tobacco,261,0.0
+BreadCrumb,263,0.0
+Candy,263,0.0
+Default,263,0.0
+Dip,263,0.0
+Instant,263,0.0
+Not Available,263,0.0
+Nut,263,2153.388
+Powder,263,12.816000000000003
+Supplement,263,57.024
+Tobacco,263,0.0
+BreadCrumb,264,0.0
+Candy,264,48.672
+Default,264,0.0
+Dip,264,0.0
+Instant,264,0.0
+Not Available,264,0.0
+Nut,264,568.47
+Powder,264,0.0
+Supplement,264,0.0
+Tobacco,264,0.0
+BreadCrumb,265,0.0
+Candy,265,0.0
+Default,265,0.0
+Dip,265,0.0
+Instant,265,0.0
+Not Available,265,0.0
+Nut,265,772.8240000000001
+Powder,265,0.0
+Supplement,265,0.0
+Tobacco,265,0.0
+BreadCrumb,266,0.0
+Candy,266,0.0
+Default,266,0.0
+Dip,266,0.0
+Instant,266,100.0
+Not Available,266,0.0
+Nut,266,487.9679999999999
+Powder,266,0.0
+Supplement,266,69.696
+Tobacco,266,0.0
+BreadCrumb,267,0.0
+Candy,267,0.0
+Default,267,0.0
+Dip,267,0.0
+Instant,267,0.0
+Not Available,267,0.0
+Nut,267,2604.5759999999996
+Powder,267,0.0
+Supplement,267,0.0
+Tobacco,267,0.0
+BreadCrumb,268,0.0
+Candy,268,0.0
+Default,268,0.0
+Dip,268,0.0
+Instant,268,0.0
+Not Available,268,0.0
+Nut,268,1051.156
+Powder,268,0.0
+Supplement,268,0.0
+Tobacco,268,0.0
+BreadCrumb,270,0.0
+Candy,270,0.0
+Default,270,0.0
+Dip,270,0.0
+Instant,270,0.0
+Not Available,270,0.0
+Nut,270,1167.56
+Powder,270,0.0
+Supplement,270,0.0
+Tobacco,270,0.0
+BreadCrumb,271,0.0
+Candy,271,0.0
+Default,271,0.0
+Dip,271,0.0
+Instant,271,0.0
+Not Available,271,0.0
+Nut,271,864.548
+Powder,271,0.0
+Supplement,271,0.0
+Tobacco,271,0.0
+BreadCrumb,272,0.0
+Candy,272,0.0
+Default,272,0.0
+Dip,272,0.0
+Instant,272,0.0
+Not Available,272,0.0
+Nut,272,2603.544
+Powder,272,0.0
+Supplement,272,0.0
+Tobacco,272,0.0
+BreadCrumb,273,0.0
+Candy,273,0.0
+Default,273,0.0
+Dip,273,0.0
+Instant,273,0.0
+Not Available,273,0.0
+Nut,273,376.94399999999996
+Powder,273,0.0
+Supplement,273,0.0
+Tobacco,273,0.0
+BreadCrumb,274,0.0
+Candy,274,0.0
+Default,274,0.0
+Dip,274,0.0
+Instant,274,0.0
+Not Available,274,0.0
+Nut,274,899.124
+Powder,274,0.0
+Supplement,274,0.0
+Tobacco,274,0.0
+BreadCrumb,275,0.0
+Candy,275,0.0
+Default,275,0.0
+Dip,275,0.0
+Instant,275,0.0
+Not Available,275,0.0
+Nut,275,437.37600000000003
+Powder,275,0.0
+Supplement,275,0.0
+Tobacco,275,0.0
+BreadCrumb,277,0.0
+Candy,277,0.0
+Default,277,0.0
+Dip,277,0.0
+Instant,277,0.0
+Not Available,277,0.0
+Nut,277,2184.2680000000005
+Powder,277,0.0
+Supplement,277,0.0
+Tobacco,277,0.0
+BreadCrumb,278,0.0
+Candy,278,0.0
+Default,278,0.0
+Dip,278,0.0
+Instant,278,0.0
+Not Available,278,0.0
+Nut,278,549.2760000000001
+Powder,278,0.0
+Supplement,278,0.0
+Tobacco,278,0.0
+BreadCrumb,279,0.0
+Candy,279,0.0
+Default,279,0.0
+Dip,279,0.0
+Instant,279,0.0
+Not Available,279,0.0
+Nut,279,1116.876
+Powder,279,0.0
+Supplement,279,0.0
+Tobacco,279,0.0
+BreadCrumb,280,0.0
+Candy,280,0.0
+Default,280,0.0
+Dip,280,0.0
+Instant,280,0.0
+Not Available,280,0.0
+Nut,280,509.96399999999994
+Powder,280,0.0
+Supplement,280,0.0
+Tobacco,280,0.0
+BreadCrumb,281,185.07999999999998
+Candy,281,60.0
+Default,281,0.0
+Dip,281,0.0
+Instant,281,0.0
+Not Available,281,0.0
+Nut,281,2115.6800000000003
+Powder,281,0.0
+Supplement,281,0.0
+Tobacco,281,0.0
+BreadCrumb,284,0.0
+Candy,284,0.0
+Default,284,0.0
+Dip,284,0.0
+Instant,284,0.0
+Not Available,284,0.0
+Nut,284,1033.9359999999997
+Powder,284,57.023999999999994
+Supplement,284,0.0
+Tobacco,284,0.0
+BreadCrumb,285,0.0
+Candy,285,0.0
+Default,285,0.0
+Dip,285,0.0
+Instant,285,0.0
+Not Available,285,0.0
+Nut,285,679.0
+Powder,285,34.56
+Supplement,285,0.0
+Tobacco,285,0.0
+BreadCrumb,286,0.0
+Candy,286,0.0
+Default,286,0.0
+Dip,286,0.0
+Instant,286,90.0
+Not Available,286,0.0
+Nut,286,567.42
+Powder,286,0.0
+Supplement,286,0.0
+Tobacco,286,0.0
+BreadCrumb,287,0.0
+Candy,287,0.0
+Default,287,0.0
+Dip,287,0.0
+Instant,287,0.0
+Not Available,287,0.0
+Nut,287,577.6320000000001
+Powder,287,0.0
+Supplement,287,33.552
+Tobacco,287,0.0
+BreadCrumb,288,0.0
+Candy,288,0.0
+Default,288,0.0
+Dip,288,0.0
+Instant,288,0.0
+Not Available,288,0.0
+Nut,288,2040.132
+Powder,288,0.0
+Supplement,288,0.0
+Tobacco,288,0.0
+BreadCrumb,291,0.0
+Candy,291,0.0
+Default,291,0.0
+Dip,291,0.0
+Instant,291,0.0
+Not Available,291,0.0
+Nut,291,720.32
+Powder,291,0.0
+Supplement,291,0.0
+Tobacco,291,0.0
+BreadCrumb,292,0.0
+Candy,292,0.0
+Default,292,0.0
+Dip,292,0.0
+Instant,292,0.0
+Not Available,292,1116.5
+Nut,292,596.394
+Powder,292,0.0
+Supplement,292,0.0
+Tobacco,292,0.0
+BreadCrumb,293,0.0
+Candy,293,0.0
+Default,293,0.0
+Dip,293,0.0
+Instant,293,0.0
+Not Available,293,0.0
+Nut,293,2675.244
+Powder,293,0.0
+Supplement,293,74.736
+Tobacco,293,0.0
+BreadCrumb,294,0.0
+Candy,294,0.0
+Default,294,0.0
+Dip,294,0.0
+Instant,294,0.0
+Not Available,294,0.0
+Nut,294,408.56399999999996
+Powder,294,0.0
+Supplement,294,0.0
+Tobacco,294,0.0
+BreadCrumb,295,0.0
+Candy,295,0.0
+Default,295,0.0
+Dip,295,0.0
+Instant,295,0.0
+Not Available,295,0.0
+Nut,295,581.832
+Powder,295,0.0
+Supplement,295,0.0
+Tobacco,295,0.0
+BreadCrumb,298,166.32
+Candy,298,0.0
+Default,298,0.0
+Dip,298,0.0
+Instant,298,0.0
+Not Available,298,0.0
+Nut,298,2254.3999999999996
+Powder,298,0.0
+Supplement,298,0.0
+Tobacco,298,0.0
+BreadCrumb,299,0.0
+Candy,299,0.0
+Default,299,0.0
+Dip,299,0.0
+Instant,299,0.0
+Not Available,299,0.0
+Nut,299,544.182
+Powder,299,0.0
+Supplement,299,100.0
+Tobacco,299,0.0
+BreadCrumb,300,0.0
+Candy,300,0.0
+Default,300,0.0
+Dip,300,0.0
+Instant,300,0.0
+Not Available,300,0.0
+Nut,300,506.844
+Powder,300,0.0
+Supplement,300,0.0
+Tobacco,300,0.0
+BreadCrumb,301,0.0
+Candy,301,0.0
+Default,301,0.0
+Dip,301,0.0
+Instant,301,0.0
+Not Available,301,0.0
+Nut,301,489.6839999999999
+Powder,301,0.0
+Supplement,301,50.0
+Tobacco,301,0.0
+BreadCrumb,302,0.0
+Candy,302,0.0
+Default,302,0.0
+Dip,302,0.0
+Instant,302,0.0
+Not Available,302,0.0
+Nut,302,2103.2160000000003
+Powder,302,0.0
+Supplement,302,0.0
+Tobacco,302,0.0
+BreadCrumb,305,0.0
+Candy,305,0.0
+Default,305,0.0
+Dip,305,0.0
+Instant,305,0.0
+Not Available,305,0.0
+Nut,305,2241.648
+Powder,305,0.0
+Supplement,305,0.0
+Tobacco,305,0.0
+BreadCrumb,306,0.0
+Candy,306,37.751999999999995
+Default,306,0.0
+Dip,306,0.0
+Instant,306,0.0
+Not Available,306,0.0
+Nut,306,812.6320000000001
+Powder,306,0.0
+Supplement,306,0.0
+Tobacco,306,0.0
+BreadCrumb,307,0.0
+Candy,307,0.0
+Default,307,0.0
+Dip,307,0.0
+Instant,307,0.0
+Not Available,307,0.0
+Nut,307,534.9240000000001
+Powder,307,0.0
+Supplement,307,46.8
+Tobacco,307,0.0
+BreadCrumb,308,0.0
+Candy,308,0.0
+Default,308,0.0
+Dip,308,0.0
+Instant,308,0.0
+Not Available,308,0.0
+Nut,308,381.108
+Powder,308,0.0
+Supplement,308,110.16
+Tobacco,308,0.0
+BreadCrumb,309,0.0
+Candy,309,0.0
+Default,309,0.0
+Dip,309,0.0
+Instant,309,0.0
+Not Available,309,0.0
+Nut,309,738.2129999999999
+Powder,309,0.0
+Supplement,309,0.0
+Tobacco,309,0.0
+BreadCrumb,312,0.0
+Candy,312,0.0
+Default,312,0.0
+Dip,312,0.0
+Instant,312,0.0
+Not Available,312,0.0
+Nut,312,545.688
+Powder,312,0.0
+Supplement,312,0.0
+Tobacco,312,0.0
+BreadCrumb,313,0.0
+Candy,313,0.0
+Default,313,0.0
+Dip,313,0.0
+Instant,313,0.0
+Not Available,313,0.0
+Nut,313,1949.8079999999998
+Powder,313,0.0
+Supplement,313,0.0
+Tobacco,313,0.0
+BreadCrumb,314,0.0
+Candy,314,0.0
+Default,314,0.0
+Dip,314,0.0
+Instant,314,0.0
+Not Available,314,0.0
+Nut,314,1053.0919999999999
+Powder,314,0.0
+Supplement,314,0.0
+Tobacco,314,0.0
+BreadCrumb,315,0.0
+Candy,315,0.0
+Default,315,0.0
+Dip,315,0.0
+Instant,315,0.0
+Not Available,315,0.0
+Nut,315,595.92
+Powder,315,0.0
+Supplement,315,0.0
+Tobacco,315,0.0
+BreadCrumb,316,0.0
+Candy,316,0.0
+Default,316,0.0
+Dip,316,0.0
+Instant,316,0.0
+Not Available,316,0.0
+Nut,316,2336.4839999999995
+Powder,316,0.0
+Supplement,316,0.0
+Tobacco,316,0.0
+BreadCrumb,317,0.0
+Candy,317,0.0
+Default,317,0.0
+Dip,317,0.0
+Instant,317,0.0
+Not Available,317,0.0
+Nut,317,535.064
+Powder,317,0.0
+Supplement,317,0.0
+Tobacco,317,0.0
+BreadCrumb,319,0.0
+Candy,319,0.0
+Default,319,0.0
+Dip,319,0.0
+Instant,319,0.0
+Not Available,319,0.0
+Nut,319,804.096
+Powder,319,50.544
+Supplement,319,0.0
+Tobacco,319,0.0
+BreadCrumb,320,0.0
+Candy,320,0.0
+Default,320,0.0
+Dip,320,0.0
+Instant,320,0.0
+Not Available,320,0.0
+Nut,320,952.7480000000003
+Powder,320,0.0
+Supplement,320,0.0
+Tobacco,320,0.0
+BreadCrumb,321,86.24
+Candy,321,0.0
+Default,321,0.0
+Dip,321,0.0
+Instant,321,25.0
+Not Available,321,0.0
+Nut,321,1999.8840000000002
+Powder,321,0.0
+Supplement,321,16.128
+Tobacco,321,0.0
+BreadCrumb,322,0.0
+Candy,322,0.0
+Default,322,0.0
+Dip,322,0.0
+Instant,322,0.0
+Not Available,322,0.0
+Nut,322,900.5840000000001
+Powder,322,0.0
+Supplement,322,150.0
+Tobacco,322,0.0
+BreadCrumb,323,185.07999999999998
+Candy,323,60.0
+Default,323,0.0
+Dip,323,0.0
+Instant,323,0.0
+Not Available,323,0.0
+Nut,323,722.8560000000002
+Powder,323,0.0
+Supplement,323,0.0
+Tobacco,323,0.0
+BreadCrumb,326,0.0
+Candy,326,0.0
+Default,326,0.0
+Dip,326,0.0
+Instant,326,0.0
+Not Available,326,0.0
+Nut,326,621.342
+Powder,326,0.0
+Supplement,326,0.0
+Tobacco,326,0.0
+BreadCrumb,333,0.0
+Candy,333,0.0
+Default,333,0.0
+Dip,333,0.0
+Instant,333,0.0
+Not Available,333,0.0
+Nut,333,970.0879999999999
+Powder,333,0.0
+Supplement,333,0.0
+Tobacco,333,0.0
+BreadCrumb,334,0.0
+Candy,334,0.0
+Default,334,0.0
+Dip,334,0.0
+Instant,334,0.0
+Not Available,334,0.0
+Nut,334,560.508
+Powder,334,0.0
+Supplement,334,0.0
+Tobacco,334,0.0
+BreadCrumb,335,0.0
+Candy,335,0.0
+Default,335,0.0
+Dip,335,0.0
+Instant,335,0.0
+Not Available,335,0.0
+Nut,335,450.37200000000007
+Powder,335,0.0
+Supplement,335,0.0
+Tobacco,335,0.0
+BreadCrumb,336,0.0
+Candy,336,0.0
+Default,336,0.0
+Dip,336,0.0
+Instant,336,0.0
+Not Available,336,0.0
+Nut,336,427.596
+Powder,336,0.0
+Supplement,336,0.0
+Tobacco,336,0.0
+BreadCrumb,337,0.0
+Candy,337,118.81200000000001
+Default,337,0.0
+Dip,337,0.0
+Instant,337,0.0
+Not Available,337,0.0
+Nut,337,3849.784
+Powder,337,51.83999999999999
+Supplement,337,0.0
+Tobacco,337,0.0
+BreadCrumb,340,0.0
+Candy,340,0.0
+Default,340,0.0
+Dip,340,0.0
+Instant,340,0.0
+Not Available,340,0.0
+Nut,340,705.54
+Powder,340,0.0
+Supplement,340,12.96
+Tobacco,340,0.0
+BreadCrumb,341,0.0
+Candy,341,0.0
+Default,341,0.0
+Dip,341,0.0
+Instant,341,0.0
+Not Available,341,0.0
+Nut,341,798.828
+Powder,341,0.0
+Supplement,341,0.0
+Tobacco,341,0.0
+BreadCrumb,342,0.0
+Candy,342,0.0
+Default,342,0.0
+Dip,342,0.0
+Instant,342,0.0
+Not Available,342,0.0
+Nut,342,2087.562
+Powder,342,0.0
+Supplement,342,0.0
+Tobacco,342,0.0
+BreadCrumb,343,0.0
+Candy,343,0.0
+Default,343,0.0
+Dip,343,0.0
+Instant,343,40.0
+Not Available,343,0.0
+Nut,343,636.4799999999998
+Powder,343,0.0
+Supplement,343,0.0
+Tobacco,343,0.0
+BreadCrumb,344,0.0
+Candy,344,0.0
+Default,344,0.0
+Dip,344,0.0
+Instant,344,0.0
+Not Available,344,0.0
+Nut,344,1418.788
+Powder,344,0.0
+Supplement,344,0.0
+Tobacco,344,0.0
+BreadCrumb,347,0.0
+Candy,347,0.0
+Default,347,0.0
+Dip,347,0.0
+Instant,347,0.0
+Not Available,347,0.0
+Nut,347,902.6320000000001
+Powder,347,0.0
+Supplement,347,0.0
+Tobacco,347,0.0
+BreadCrumb,348,166.32
+Candy,348,0.0
+Default,348,0.0
+Dip,348,0.0
+Instant,348,0.0
+Not Available,348,0.0
+Nut,348,866.684
+Powder,348,0.0
+Supplement,348,0.0
+Tobacco,348,0.0
+BreadCrumb,349,0.0
+Candy,349,0.0
+Default,349,0.0
+Dip,349,0.0
+Instant,349,0.0
+Not Available,349,0.0
+Nut,349,2152.808
+Powder,349,0.0
+Supplement,349,0.0
+Tobacco,349,0.0
+BreadCrumb,350,0.0
+Candy,350,0.0
+Default,350,0.0
+Dip,350,0.0
+Instant,350,0.0
+Not Available,350,0.0
+Nut,350,714.012
+Powder,350,0.0
+Supplement,350,0.0
+Tobacco,350,0.0
+BreadCrumb,351,185.07999999999998
+Candy,351,0.0
+Default,351,0.0
+Dip,351,0.0
+Instant,351,0.0
+Not Available,351,0.0
+Nut,351,2749.3639999999996
+Powder,351,0.0
+Supplement,351,70.70400000000001
+Tobacco,351,0.0
+BreadCrumb,354,0.0
+Candy,354,0.0
+Default,354,0.0
+Dip,354,0.0
+Instant,354,0.0
+Not Available,354,0.0
+Nut,354,1325.922
+Powder,354,0.0
+Supplement,354,0.0
+Tobacco,354,0.0
+BreadCrumb,355,185.07999999999998
+Candy,355,0.0
+Default,355,0.0
+Dip,355,0.0
+Instant,355,0.0
+Not Available,355,0.0
+Nut,355,2784.1519999999996
+Powder,355,0.0
+Supplement,355,0.0
+Tobacco,355,0.0
+BreadCrumb,356,0.0
+Candy,356,0.0
+Default,356,0.0
+Dip,356,0.0
+Instant,356,0.0
+Not Available,356,0.0
+Nut,356,593.156
+Powder,356,0.0
+Supplement,356,166.25
+Tobacco,356,0.0
+BreadCrumb,369,0.0
+Candy,369,0.0
+Default,369,0.0
+Dip,369,0.0
+Instant,369,0.0
+Not Available,369,0.0
+Nut,369,1274.22
+Powder,369,0.0
+Supplement,369,0.0
+Tobacco,369,0.0
+BreadCrumb,370,0.0
+Candy,370,0.0
+Default,370,0.0
+Dip,370,0.0
+Instant,370,0.0
+Not Available,370,0.0
+Nut,370,2135.7599999999998
+Powder,370,0.0
+Supplement,370,0.0
+Tobacco,370,0.0
+BreadCrumb,371,0.0
+Candy,371,0.0
+Default,371,0.0
+Dip,371,0.0
+Instant,371,0.0
+Not Available,371,0.0
+Nut,371,340.0799999999999
+Powder,371,0.0
+Supplement,371,54.432
+Tobacco,371,0.0
+BreadCrumb,372,166.32
+Candy,372,0.0
+Default,372,0.0
+Dip,372,0.0
+Instant,372,0.0
+Not Available,372,0.0
+Nut,372,304.74800000000005
+Powder,372,180.912
+Supplement,372,0.0
+Tobacco,372,0.0
+BreadCrumb,375,0.0
+Candy,375,0.0
+Default,375,0.0
+Dip,375,0.0
+Instant,375,0.0
+Not Available,375,0.0
+Nut,375,358.362
+Powder,375,0.0
+Supplement,375,0.0
+Tobacco,375,0.0
+BreadCrumb,376,0.0
+Candy,376,0.0
+Default,376,0.0
+Dip,376,0.0
+Instant,376,0.0
+Not Available,376,0.0
+Nut,376,839.964
+Powder,376,0.0
+Supplement,376,40.176
+Tobacco,376,0.0
+BreadCrumb,377,0.0
+Candy,377,0.0
+Default,377,0.0
+Dip,377,0.0
+Instant,377,0.0
+Not Available,377,0.0
+Nut,377,2642.416
+Powder,377,0.0
+Supplement,377,0.0
+Tobacco,377,0.0
+BreadCrumb,378,0.0
+Candy,378,0.0
+Default,378,0.0
+Dip,378,0.0
+Instant,378,0.0
+Not Available,378,0.0
+Nut,378,781.8200000000002
+Powder,378,0.0
+Supplement,378,39.888000000000005
+Tobacco,378,0.0
+BreadCrumb,379,0.0
+Candy,379,60.0
+Default,379,0.0
+Dip,379,0.0
+Instant,379,0.0
+Not Available,379,0.0
+Nut,379,599.82
+Powder,379,0.0
+Supplement,379,23.327999999999996
+Tobacco,379,0.0
+BreadCrumb,380,0.0
+Candy,380,0.0
+Default,380,0.0
+Dip,380,0.0
+Instant,380,0.0
+Not Available,380,0.0
+Nut,380,131.976
+Powder,380,45.36
+Supplement,380,0.0
+Tobacco,380,0.0
+BreadCrumb,382,0.0
+Candy,382,127.764
+Default,382,0.0
+Dip,382,0.0
+Instant,382,0.0
+Not Available,382,0.0
+Nut,382,2682.832
+Powder,382,0.0
+Supplement,382,231.25
+Tobacco,382,0.0
+BreadCrumb,383,0.0
+Candy,383,0.0
+Default,383,0.0
+Dip,383,0.0
+Instant,383,0.0
+Not Available,383,0.0
+Nut,383,1093.3680000000002
+Powder,383,0.0
+Supplement,383,80.49600000000001
+Tobacco,383,0.0
+BreadCrumb,384,0.0
+Candy,384,0.0
+Default,384,0.0
+Dip,384,0.0
+Instant,384,0.0
+Not Available,384,0.0
+Nut,384,717.304
+Powder,384,0.0
+Supplement,384,19.44
+Tobacco,384,0.0
+BreadCrumb,385,0.0
+Candy,385,0.0
+Default,385,0.0
+Dip,385,0.0
+Instant,385,0.0
+Not Available,385,0.0
+Nut,385,459.42
+Powder,385,0.0
+Supplement,385,31.536
+Tobacco,385,0.0
+BreadCrumb,386,0.0
+Candy,386,0.0
+Default,386,0.0
+Dip,386,0.0
+Instant,386,0.0
+Not Available,386,0.0
+Nut,386,284.544
+Powder,386,0.0
+Supplement,386,10.368
+Tobacco,386,0.0
+BreadCrumb,389,0.0
+Candy,389,0.0
+Default,389,0.0
+Dip,389,0.0
+Instant,389,0.0
+Not Available,389,0.0
+Nut,389,1104.94
+Powder,389,0.0
+Supplement,389,0.0
+Tobacco,389,0.0
+BreadCrumb,390,0.0
+Candy,390,0.0
+Default,390,0.0
+Dip,390,0.0
+Instant,390,0.0
+Not Available,390,0.0
+Nut,390,744.7999999999998
+Powder,390,20.736
+Supplement,390,0.0
+Tobacco,390,0.0
+BreadCrumb,391,0.0
+Candy,391,0.0
+Default,391,0.0
+Dip,391,0.0
+Instant,391,0.0
+Not Available,391,0.0
+Nut,391,3780.744
+Powder,391,0.0
+Supplement,391,44.496
+Tobacco,391,0.0
+BreadCrumb,392,0.0
+Candy,392,0.0
+Default,392,0.0
+Dip,392,0.0
+Instant,392,0.0
+Not Available,392,0.0
+Nut,392,935.994
+Powder,392,0.0
+Supplement,392,33.84
+Tobacco,392,0.0
+BreadCrumb,393,0.0
+Candy,393,0.0
+Default,393,0.0
+Dip,393,0.0
+Instant,393,0.0
+Not Available,393,0.0
+Nut,393,482.852
+Powder,393,0.0
+Supplement,393,3.7439999999999998
+Tobacco,393,0.0
+BreadCrumb,396,0.0
+Candy,396,0.0
+Default,396,0.0
+Dip,396,0.0
+Instant,396,0.0
+Not Available,396,0.0
+Nut,396,933.564
+Powder,396,0.0
+Supplement,396,0.0
+Tobacco,396,0.0
+BreadCrumb,397,0.0
+Candy,397,60.0
+Default,397,0.0
+Dip,397,0.0
+Instant,397,0.0
+Not Available,397,0.0
+Nut,397,934.2799999999999
+Powder,397,0.0
+Supplement,397,0.0
+Tobacco,397,80.112
+BreadCrumb,398,0.0
+Candy,398,0.0
+Default,398,0.0
+Dip,398,0.0
+Instant,398,0.0
+Not Available,398,0.0
+Nut,398,787.9440000000001
+Powder,398,0.0
+Supplement,398,0.0
+Tobacco,398,0.0
+BreadCrumb,399,0.0
+Candy,399,0.0
+Default,399,0.0
+Dip,399,0.0
+Instant,399,0.0
+Not Available,399,0.0
+Nut,399,374.868
+Powder,399,0.0
+Supplement,399,66.096
+Tobacco,399,0.0
+BreadCrumb,400,0.0
+Candy,400,0.0
+Default,400,0.0
+Dip,400,0.0
+Instant,400,0.0
+Not Available,400,0.0
+Nut,400,2004.98
+Powder,400,0.0
+Supplement,400,0.0
+Tobacco,400,0.0
+BreadCrumb,403,0.0
+Candy,403,0.0
+Default,403,0.0
+Dip,403,0.0
+Instant,403,0.0
+Not Available,403,0.0
+Nut,403,517.9200000000001
+Powder,403,0.0
+Supplement,403,240.0
+Tobacco,403,0.0
+BreadCrumb,404,124.32
+Candy,404,0.0
+Default,404,0.0
+Dip,404,0.0
+Instant,404,0.0
+Not Available,404,0.0
+Nut,404,920.7600000000002
+Powder,404,0.0
+Supplement,404,0.0
+Tobacco,404,0.0
+BreadCrumb,405,0.0
+Candy,405,0.0
+Default,405,0.0
+Dip,405,0.0
+Instant,405,0.0
+Not Available,405,0.0
+Nut,405,2490.8039999999996
+Powder,405,0.0
+Supplement,405,0.0
+Tobacco,405,0.0
+BreadCrumb,406,0.0
+Candy,406,0.0
+Default,406,0.0
+Dip,406,0.0
+Instant,406,0.0
+Not Available,406,0.0
+Nut,406,618.752
+Powder,406,0.0
+Supplement,406,0.0
+Tobacco,406,0.0
+BreadCrumb,407,0.0
+Candy,407,0.0
+Default,407,0.0
+Dip,407,0.0
+Instant,407,0.0
+Not Available,407,0.0
+Nut,407,2291.52
+Powder,407,0.0
+Supplement,407,0.0
+Tobacco,407,0.0
+BreadCrumb,410,0.0
+Candy,410,0.0
+Default,410,0.0
+Dip,410,0.0
+Instant,410,0.0
+Not Available,410,0.0
+Nut,410,1110.548
+Powder,410,0.0
+Supplement,410,44.06399999999999
+Tobacco,410,0.0
+BreadCrumb,411,0.0
+Candy,411,0.0
+Default,411,0.0
+Dip,411,0.0
+Instant,411,0.0
+Not Available,411,0.0
+Nut,411,751.304
+Powder,411,0.0
+Supplement,411,57.023999999999994
+Tobacco,411,0.0
+BreadCrumb,412,0.0
+Candy,412,0.0
+Default,412,0.0
+Dip,412,0.0
+Instant,412,0.0
+Not Available,412,0.0
+Nut,412,2028.1200000000001
+Powder,412,0.0
+Supplement,412,0.0
+Tobacco,412,0.0
+BreadCrumb,413,0.0
+Candy,413,0.0
+Default,413,0.0
+Dip,413,0.0
+Instant,413,0.0
+Not Available,413,0.0
+Nut,413,424.32
+Powder,413,0.0
+Supplement,413,90.72000000000001
+Tobacco,413,0.0
+BreadCrumb,414,0.0
+Candy,414,0.0
+Default,414,0.0
+Dip,414,0.0
+Instant,414,0.0
+Not Available,414,0.0
+Nut,414,743.09
+Powder,414,0.0
+Supplement,414,0.0
+Tobacco,414,0.0
+BreadCrumb,417,0.0
+Candy,417,0.0
+Default,417,0.0
+Dip,417,0.0
+Instant,417,0.0
+Not Available,417,0.0
+Nut,417,970.778
+Powder,417,0.0
+Supplement,417,37.296
+Tobacco,417,0.0
+BreadCrumb,418,0.0
+Candy,418,0.0
+Default,418,0.0
+Dip,418,0.0
+Instant,418,0.0
+Not Available,418,0.0
+Nut,418,1110.3280000000002
+Powder,418,0.0
+Supplement,418,0.0
+Tobacco,418,0.0
+BreadCrumb,419,0.0
+Candy,419,0.0
+Default,419,0.0
+Dip,419,0.0
+Instant,419,0.0
+Not Available,419,0.0
+Nut,419,2631.096
+Powder,419,0.0
+Supplement,419,0.0
+Tobacco,419,0.0
+BreadCrumb,420,0.0
+Candy,420,0.0
+Default,420,0.0
+Dip,420,0.0
+Instant,420,0.0
+Not Available,420,0.0
+Nut,420,822.5760000000001
+Powder,420,0.0
+Supplement,420,0.0
+Tobacco,420,0.0
+BreadCrumb,421,351.4
+Candy,421,0.0
+Default,421,0.0
+Dip,421,71.058
+Instant,421,0.0
+Not Available,421,0.0
+Nut,421,349.596
+Powder,421,0.0
+Supplement,421,0.0
+Tobacco,421,0.0
+BreadCrumb,424,0.0
+Candy,424,0.0
+Default,424,0.0
+Dip,424,57.023999999999994
+Instant,424,0.0
+Not Available,424,0.0
+Nut,424,2025.7800000000002
+Powder,424,0.0
+Supplement,424,0.0
+Tobacco,424,0.0
+BreadCrumb,425,0.0
+Candy,425,0.0
+Default,425,0.0
+Dip,425,0.0
+Instant,425,0.0
+Not Available,425,0.0
+Nut,425,352.40400000000005
+Powder,425,93.75
+Supplement,425,0.0
+Tobacco,425,0.0
+BreadCrumb,426,0.0
+Candy,426,0.0
+Default,426,0.0
+Dip,426,0.0
+Instant,426,0.0
+Not Available,426,0.0
+Nut,426,2113.764
+Powder,426,0.0
+Supplement,426,0.0
+Tobacco,426,0.0
+BreadCrumb,427,0.0
+Candy,427,0.0
+Default,427,0.0
+Dip,427,0.0
+Instant,427,0.0
+Not Available,427,0.0
+Nut,427,406.84799999999996
+Powder,427,0.0
+Supplement,427,0.0
+Tobacco,427,0.0
+BreadCrumb,431,0.0
+Candy,431,0.0
+Default,431,0.0
+Dip,431,0.0
+Instant,431,0.0
+Not Available,431,0.0
+Nut,431,1094.3520000000003
+Powder,431,0.0
+Supplement,431,0.0
+Tobacco,431,0.0
+BreadCrumb,432,0.0
+Candy,432,0.0
+Default,432,0.0
+Dip,432,0.0
+Instant,432,0.0
+Not Available,432,0.0
+Nut,432,863.1
+Powder,432,0.0
+Supplement,432,0.0
+Tobacco,432,0.0
+BreadCrumb,433,0.0
+Candy,433,0.0
+Default,433,0.0
+Dip,433,0.0
+Instant,433,0.0
+Not Available,433,0.0
+Nut,433,2184.8999999999996
+Powder,433,24.624000000000002
+Supplement,433,0.0
+Tobacco,433,0.0
+BreadCrumb,434,0.0
+Candy,434,0.0
+Default,434,0.0
+Dip,434,0.0
+Instant,434,0.0
+Not Available,434,0.0
+Nut,434,247.572
+Powder,434,0.0
+Supplement,434,0.0
+Tobacco,434,0.0
+BreadCrumb,435,0.0
+Candy,435,0.0
+Default,435,0.0
+Dip,435,0.0
+Instant,435,0.0
+Not Available,435,0.0
+Nut,435,378.14400000000006
+Powder,435,0.0
+Supplement,435,0.0
+Tobacco,435,0.0
+BreadCrumb,438,0.0
+Candy,438,0.0
+Default,438,0.0
+Dip,438,0.0
+Instant,438,0.0
+Not Available,438,0.0
+Nut,438,633.828
+Powder,438,0.0
+Supplement,438,0.0
+Tobacco,438,0.0
+BreadCrumb,439,0.0
+Candy,439,0.0
+Default,439,0.0
+Dip,439,0.0
+Instant,439,0.0
+Not Available,439,0.0
+Nut,439,709.4999999999999
+Powder,439,0.0
+Supplement,439,0.0
+Tobacco,439,0.0
+BreadCrumb,440,0.0
+Candy,440,0.0
+Default,440,0.0
+Dip,440,0.0
+Instant,440,0.0
+Not Available,440,0.0
+Nut,440,465.548
+Powder,440,0.0
+Supplement,440,50.832
+Tobacco,440,0.0
+BreadCrumb,441,0.0
+Candy,441,0.0
+Default,441,0.0
+Dip,441,0.0
+Instant,441,0.0
+Not Available,441,0.0
+Nut,441,687.004
+Powder,441,0.0
+Supplement,441,35.568000000000005
+Tobacco,441,0.0
+BreadCrumb,442,166.32
+Candy,442,0.0
+Default,442,0.0
+Dip,442,0.0
+Instant,442,0.0
+Not Available,442,0.0
+Nut,442,1596.0
+Powder,442,0.0
+Supplement,442,0.0
+Tobacco,442,0.0
+BreadCrumb,445,0.0
+Candy,445,0.0
+Default,445,0.0
+Dip,445,0.0
+Instant,445,0.0
+Not Available,445,0.0
+Nut,445,621.928
+Powder,445,0.0
+Supplement,445,0.0
+Tobacco,445,0.0
+BreadCrumb,446,0.0
+Candy,446,0.0
+Default,446,0.0
+Dip,446,0.0
+Instant,446,0.0
+Not Available,446,0.0
+Nut,446,288.288
+Powder,446,0.0
+Supplement,446,0.0
+Tobacco,446,0.0
+BreadCrumb,447,0.0
+Candy,447,0.0
+Default,447,0.0
+Dip,447,0.0
+Instant,447,0.0
+Not Available,447,0.0
+Nut,447,508.092
+Powder,447,0.0
+Supplement,447,0.0
+Tobacco,447,0.0
+BreadCrumb,448,0.0
+Candy,448,0.0
+Default,448,0.0
+Dip,448,0.0
+Instant,448,0.0
+Not Available,448,0.0
+Nut,448,633.516
+Powder,448,0.0
+Supplement,448,20.016000000000002
+Tobacco,448,0.0
+BreadCrumb,449,0.0
+Candy,449,0.0
+Default,449,0.0
+Dip,449,0.0
+Instant,449,0.0
+Not Available,449,0.0
+Nut,449,1596.0
+Powder,449,0.0
+Supplement,449,0.0
+Tobacco,449,0.0
+BreadCrumb,452,0.0
+Candy,452,0.0
+Default,452,0.0
+Dip,452,0.0
+Instant,452,0.0
+Not Available,452,0.0
+Nut,452,2508.66
+Powder,452,0.0
+Supplement,452,100.0
+Tobacco,452,0.0
+BreadCrumb,453,0.0
+Candy,453,0.0
+Default,453,0.0
+Dip,453,0.0
+Instant,453,0.0
+Not Available,453,0.0
+Nut,453,755.496
+Powder,453,0.0
+Supplement,453,0.0
+Tobacco,453,0.0
+BreadCrumb,454,0.0
+Candy,454,0.0
+Default,454,0.0
+Dip,454,0.0
+Instant,454,0.0
+Not Available,454,0.0
+Nut,454,729.348
+Powder,454,0.0
+Supplement,454,50.7
+Tobacco,454,0.0
+BreadCrumb,455,0.0
+Candy,455,0.0
+Default,455,0.0
+Dip,455,0.0
+Instant,455,0.0
+Not Available,455,0.0
+Nut,455,1120.1960000000001
+Powder,455,0.0
+Supplement,455,0.0
+Tobacco,455,0.0
+BreadCrumb,459,0.0
+Candy,459,0.0
+Default,459,0.0
+Dip,459,0.0
+Instant,459,0.0
+Not Available,459,0.0
+Nut,459,533.66
+Powder,459,0.0
+Supplement,459,0.0
+Tobacco,459,0.0
+BreadCrumb,460,0.0
+Candy,460,0.0
+Default,460,0.0
+Dip,460,0.0
+Instant,460,0.0
+Not Available,460,0.0
+Nut,460,497.796
+Powder,460,0.0
+Supplement,460,0.0
+Tobacco,460,0.0
+BreadCrumb,461,0.0
+Candy,461,0.0
+Default,461,0.0
+Dip,461,0.0
+Instant,461,0.0
+Not Available,461,0.0
+Nut,461,1055.064
+Powder,461,0.0
+Supplement,461,0.0
+Tobacco,461,0.0
+BreadCrumb,462,0.0
+Candy,462,0.0
+Default,462,0.0
+Dip,462,0.0
+Instant,462,0.0
+Not Available,462,0.0
+Nut,462,1801.6080000000002
+Powder,462,0.0
+Supplement,462,2.592
+Tobacco,462,0.0
+BreadCrumb,463,0.0
+Candy,463,0.0
+Default,463,0.0
+Dip,463,0.0
+Instant,463,0.0
+Not Available,463,0.0
+Nut,463,630.0799999999999
+Powder,463,0.0
+Supplement,463,0.0
+Tobacco,463,0.0
+BreadCrumb,466,166.32
+Candy,466,0.0
+Default,466,0.0
+Dip,466,0.0
+Instant,466,0.0
+Not Available,466,0.0
+Nut,466,2221.6279999999997
+Powder,466,0.0
+Supplement,466,0.0
+Tobacco,466,0.0
+BreadCrumb,467,0.0
+Candy,467,0.0
+Default,467,0.0
+Dip,467,0.0
+Instant,467,0.0
+Not Available,467,0.0
+Nut,467,600.4639999999999
+Powder,467,0.0
+Supplement,467,0.0
+Tobacco,467,0.0
+BreadCrumb,468,0.0
+Candy,468,0.0
+Default,468,0.0
+Dip,468,0.0
+Instant,468,0.0
+Not Available,468,0.0
+Nut,468,344.29200000000003
+Powder,468,0.0
+Supplement,468,0.0
+Tobacco,468,0.0
+BreadCrumb,469,0.0
+Candy,469,0.0
+Default,469,0.0
+Dip,469,0.0
+Instant,469,0.0
+Not Available,469,0.0
+Nut,469,380.95200000000006
+Powder,469,19.152
+Supplement,469,0.0
+Tobacco,469,0.0
+BreadCrumb,470,0.0
+Candy,470,0.0
+Default,470,0.0
+Dip,470,0.0
+Instant,470,0.0
+Not Available,470,0.0
+Nut,470,334.124
+Powder,470,0.0
+Supplement,470,0.0
+Tobacco,470,35.879999999999995
+BreadCrumb,474,0.0
+Candy,474,0.0
+Default,474,0.0
+Dip,474,0.0
+Instant,474,0.0
+Not Available,474,0.0
+Nut,474,3.92
+Powder,474,0.0
+Supplement,474,0.0
+Tobacco,474,0.0
+BreadCrumb,476,0.0
+Candy,476,0.0
+Default,476,0.0
+Dip,476,0.0
+Instant,476,0.0
+Not Available,476,0.0
+Nut,476,0.0
+Powder,476,20.0
+Supplement,476,0.0
+Tobacco,476,0.0
+BreadCrumb,480,0.0
+Candy,480,0.0
+Default,480,0.0
+Dip,480,0.0
+Instant,480,0.0
+Not Available,480,0.0
+Nut,480,814.3520000000001
+Powder,480,0.0
+Supplement,480,0.0
+Tobacco,480,0.0
+BreadCrumb,481,0.0
+Candy,481,0.0
+Default,481,0.0
+Dip,481,0.0
+Instant,481,0.0
+Not Available,481,0.0
+Nut,481,2742.912
+Powder,481,0.0
+Supplement,481,0.0
+Tobacco,481,0.0
+BreadCrumb,482,0.0
+Candy,482,0.0
+Default,482,0.0
+Dip,482,0.0
+Instant,482,0.0
+Not Available,482,0.0
+Nut,482,953.3640000000003
+Powder,482,0.0
+Supplement,482,0.0
+Tobacco,482,0.0
+BreadCrumb,483,0.0
+Candy,483,0.0
+Default,483,0.0
+Dip,483,0.0
+Instant,483,0.0
+Not Available,483,0.0
+Nut,483,391.404
+Powder,483,0.0
+Supplement,483,0.0
+Tobacco,483,0.0
+BreadCrumb,484,0.0
+Candy,484,0.0
+Default,484,0.0
+Dip,484,0.0
+Instant,484,0.0
+Not Available,484,0.0
+Nut,484,2502.5519999999997
+Powder,484,0.0
+Supplement,484,0.0
+Tobacco,484,0.0
+BreadCrumb,487,0.0
+Candy,487,0.0
+Default,487,0.0
+Dip,487,0.0
+Instant,487,0.0
+Not Available,487,0.0
+Nut,487,887.94
+Powder,487,0.0
+Supplement,487,0.0
+Tobacco,487,0.0
+BreadCrumb,488,0.0
+Candy,488,0.0
+Default,488,0.0
+Dip,488,0.0
+Instant,488,0.0
+Not Available,488,0.0
+Nut,488,515.268
+Powder,488,0.0
+Supplement,488,0.0
+Tobacco,488,0.0
+BreadCrumb,489,124.04
+Candy,489,0.0
+Default,489,0.0
+Dip,489,0.0
+Instant,489,0.0
+Not Available,489,0.0
+Nut,489,1136.516
+Powder,489,0.0
+Supplement,489,0.0
+Tobacco,489,0.0
+BreadCrumb,490,0.0
+Candy,490,0.0
+Default,490,0.0
+Dip,490,0.0
+Instant,490,0.0
+Not Available,490,0.0
+Nut,490,589.374
+Powder,490,0.0
+Supplement,490,0.0
+Tobacco,490,0.0
+BreadCrumb,491,0.0
+Candy,491,0.0
+Default,491,0.0
+Dip,491,0.0
+Instant,491,0.0
+Not Available,491,0.0
+Nut,491,330.096
+Powder,491,0.0
+Supplement,491,0.0
+Tobacco,491,0.0
+BreadCrumb,494,0.0
+Candy,494,0.0
+Default,494,0.0
+Dip,494,0.0
+Instant,494,0.0
+Not Available,494,0.0
+Nut,494,1104.5359999999998
+Powder,494,0.0
+Supplement,494,0.0
+Tobacco,494,0.0
+BreadCrumb,495,0.0
+Candy,495,0.0
+Default,495,0.0
+Dip,495,0.0
+Instant,495,0.0
+Not Available,495,0.0
+Nut,495,752.744
+Powder,495,0.0
+Supplement,495,0.0
+Tobacco,495,0.0
+BreadCrumb,496,0.0
+Candy,496,0.0
+Default,496,0.0
+Dip,496,0.0
+Instant,496,0.0
+Not Available,496,0.0
+Nut,496,618.9
+Powder,496,0.0
+Supplement,496,0.0
+Tobacco,496,0.0
+BreadCrumb,497,0.0
+Candy,497,0.0
+Default,497,0.0
+Dip,497,0.0
+Instant,497,0.0
+Not Available,497,0.0
+Nut,497,417.924
+Powder,497,0.0
+Supplement,497,0.0
+Tobacco,497,0.0
+BreadCrumb,498,185.07999999999998
+Candy,498,0.0
+Default,498,0.0
+Dip,498,0.0
+Instant,498,0.0
+Not Available,498,0.0
+Nut,498,2537.624
+Powder,498,0.0
+Supplement,498,0.0
+Tobacco,498,-6.552
+BreadCrumb,501,0.0
+Candy,501,0.0
+Default,501,0.0
+Dip,501,0.0
+Instant,501,0.0
+Not Available,501,0.0
+Nut,501,2814.344
+Powder,501,0.0
+Supplement,501,0.0
+Tobacco,501,0.0
+BreadCrumb,502,0.0
+Candy,502,0.0
+Default,502,0.0
+Dip,502,0.0
+Instant,502,0.0
+Not Available,502,0.0
+Nut,502,440.02799999999996
+Powder,502,0.0
+Supplement,502,0.0
+Tobacco,502,0.0
+BreadCrumb,503,0.0
+Candy,503,0.0
+Default,503,0.0
+Dip,503,0.0
+Instant,503,0.0
+Not Available,503,0.0
+Nut,503,1097.652
+Powder,503,0.0
+Supplement,503,44.064
+Tobacco,503,0.0
+BreadCrumb,504,0.0
+Candy,504,0.0
+Default,504,0.0
+Dip,504,0.0
+Instant,504,0.0
+Not Available,504,0.0
+Nut,504,455.5199999999999
+Powder,504,0.0
+Supplement,504,0.0
+Tobacco,504,0.0
+BreadCrumb,505,0.0
+Candy,505,0.0
+Default,505,0.0
+Dip,505,0.0
+Instant,505,0.0
+Not Available,505,0.0
+Nut,505,336.49199999999996
+Powder,505,0.0
+Supplement,505,0.0
+Tobacco,505,0.0
+BreadCrumb,508,0.0
+Candy,508,0.0
+Default,508,0.0
+Dip,508,0.0
+Instant,508,0.0
+Not Available,508,0.0
+Nut,508,2308.456
+Powder,508,0.0
+Supplement,508,0.0
+Tobacco,508,0.0
+BreadCrumb,509,0.0
+Candy,509,0.0
+Default,509,0.0
+Dip,509,0.0
+Instant,509,0.0
+Not Available,509,0.0
+Nut,509,760.2319999999999
+Powder,509,0.0
+Supplement,509,0.0
+Tobacco,509,0.0
+BreadCrumb,510,0.0
+Candy,510,0.0
+Default,510,0.0
+Dip,510,0.0
+Instant,510,0.0
+Not Available,510,0.0
+Nut,510,2076.012
+Powder,510,0.0
+Supplement,510,0.0
+Tobacco,510,-8.57
+BreadCrumb,511,0.0
+Candy,511,0.0
+Default,511,0.0
+Dip,511,0.0
+Instant,511,0.0
+Not Available,511,0.0
+Nut,511,495.14399999999995
+Powder,511,0.0
+Supplement,511,31.68
+Tobacco,511,0.0
+BreadCrumb,512,0.0
+Candy,512,0.0
+Default,512,0.0
+Dip,512,0.0
+Instant,512,0.0
+Not Available,512,0.0
+Nut,512,328.84799999999996
+Powder,512,0.0
+Supplement,512,227.5
+Tobacco,512,0.0
+BreadCrumb,516,0.0
+Candy,516,0.0
+Default,516,0.0
+Dip,516,0.0
+Instant,516,0.0
+Not Available,516,0.0
+Nut,516,655.356
+Powder,516,0.0
+Supplement,516,0.0
+Tobacco,516,0.0
+BreadCrumb,517,0.0
+Candy,517,0.0
+Default,517,0.0
+Dip,517,0.0
+Instant,517,0.0
+Not Available,517,0.0
+Nut,517,411.216
+Powder,517,0.0
+Supplement,517,57.023999999999994
+Tobacco,517,0.0
+BreadCrumb,518,0.0
+Candy,518,0.0
+Default,518,0.0
+Dip,518,0.0
+Instant,518,0.0
+Not Available,518,0.0
+Nut,518,537.4200000000001
+Powder,518,0.0
+Supplement,518,57.023999999999994
+Tobacco,518,0.0
+BreadCrumb,519,0.0
+Candy,519,0.0
+Default,519,0.0
+Dip,519,0.0
+Instant,519,0.0
+Not Available,519,0.0
+Nut,519,1991.772
+Powder,519,147.024
+Supplement,519,113.75
+Tobacco,519,0.0
+BreadCrumb,522,0.0
+Candy,522,0.0
+Default,522,0.0
+Dip,522,0.0
+Instant,522,0.0
+Not Available,522,0.0
+Nut,522,431.96400000000006
+Powder,522,36.288
+Supplement,522,51.84
+Tobacco,522,0.0
+BreadCrumb,523,0.0
+Candy,523,0.0
+Default,523,0.0
+Dip,523,0.0
+Instant,523,0.0
+Not Available,523,0.0
+Nut,523,791.044
+Powder,523,0.0
+Supplement,523,183.002
+Tobacco,523,0.0
+BreadCrumb,524,0.0
+Candy,524,0.0
+Default,524,0.0
+Dip,524,0.0
+Instant,524,0.0
+Not Available,524,0.0
+Nut,524,2122.812
+Powder,524,0.0
+Supplement,524,57.023999999999994
+Tobacco,524,0.0
+BreadCrumb,525,0.0
+Candy,525,0.0
+Default,525,0.0
+Dip,525,0.0
+Instant,525,0.0
+Not Available,525,0.0
+Nut,525,413.86800000000005
+Powder,525,0.0
+Supplement,525,0.0
+Tobacco,525,0.0
+BreadCrumb,526,0.0
+Candy,526,0.0
+Default,526,0.0
+Dip,526,0.0
+Instant,526,0.0
+Not Available,526,0.0
+Nut,526,252.40799999999996
+Powder,526,0.0
+Supplement,526,90.71999999999998
+Tobacco,526,0.0
+BreadCrumb,529,0.0
+Candy,529,0.0
+Default,529,0.0
+Dip,529,0.0
+Instant,529,0.0
+Not Available,529,0.0
+Nut,529,2131.5480000000002
+Powder,529,0.0
+Supplement,529,0.0
+Tobacco,529,0.0
+BreadCrumb,530,0.0
+Candy,530,0.0
+Default,530,0.0
+Dip,530,0.0
+Instant,530,0.0
+Not Available,530,0.0
+Nut,530,508.048
+Powder,530,0.0
+Supplement,530,0.0
+Tobacco,530,0.0
+BreadCrumb,531,0.0
+Candy,531,0.0
+Default,531,0.0
+Dip,531,0.0
+Instant,531,0.0
+Not Available,531,0.0
+Nut,531,594.616
+Powder,531,0.0
+Supplement,531,0.0
+Tobacco,531,0.0
+BreadCrumb,532,0.0
+Candy,532,0.0
+Default,532,0.0
+Dip,532,53.424
+Instant,532,0.0
+Not Available,532,0.0
+Nut,532,523.244
+Powder,532,0.0
+Supplement,532,0.0
+Tobacco,532,0.0
+BreadCrumb,533,0.0
+Candy,533,0.0
+Default,533,0.0
+Dip,533,0.0
+Instant,533,0.0
+Not Available,533,0.0
+Nut,533,1596.0
+Powder,533,0.0
+Supplement,533,0.0
+Tobacco,533,0.0
+BreadCrumb,536,0.0
+Candy,536,0.0
+Default,536,0.0
+Dip,536,60.0
+Instant,536,0.0
+Not Available,536,0.0
+Nut,536,862.5279999999999
+Powder,536,0.0
+Supplement,536,0.0
+Tobacco,536,0.0
+BreadCrumb,537,0.0
+Candy,537,0.0
+Default,537,0.0
+Dip,537,0.0
+Instant,537,0.0
+Not Available,537,0.0
+Nut,537,415.116
+Powder,537,0.0
+Supplement,537,0.0
+Tobacco,537,0.0
+BreadCrumb,538,0.0
+Candy,538,0.0
+Default,538,0.0
+Dip,538,0.0
+Instant,538,0.0
+Not Available,538,0.0
+Nut,538,2172.064
+Powder,538,0.0
+Supplement,538,0.0
+Tobacco,538,0.0
+BreadCrumb,539,0.0
+Candy,539,0.0
+Default,539,0.0
+Dip,539,0.0
+Instant,539,0.0
+Not Available,539,0.0
+Nut,539,484.88400000000007
+Powder,539,0.0
+Supplement,539,0.0
+Tobacco,539,0.0
+BreadCrumb,540,0.0
+Candy,540,0.0
+Default,540,0.0
+Dip,540,0.0
+Instant,540,0.0
+Not Available,540,0.0
+Nut,540,759.4399999999999
+Powder,540,0.0
+Supplement,540,150.0
+Tobacco,540,0.0
+BreadCrumb,543,0.0
+Candy,543,0.0
+Default,543,0.0
+Dip,543,0.0
+Instant,543,0.0
+Not Available,543,0.0
+Nut,543,1117.5680000000002
+Powder,543,0.0
+Supplement,543,0.0
+Tobacco,543,0.0
+BreadCrumb,544,82.32
+Candy,544,0.0
+Default,544,0.0
+Dip,544,0.0
+Instant,544,0.0
+Not Available,544,0.0
+Nut,544,2325.1880000000006
+Powder,544,0.0
+Supplement,544,0.0
+Tobacco,544,0.0
+BreadCrumb,545,0.0
+Candy,545,0.0
+Default,545,0.0
+Dip,545,0.0
+Instant,545,0.0
+Not Available,545,0.0
+Nut,545,319.644
+Powder,545,0.0
+Supplement,545,0.0
+Tobacco,545,101.48400000000001
+BreadCrumb,546,42.0
+Candy,546,0.0
+Default,546,0.0
+Dip,546,0.0
+Instant,546,0.0
+Not Available,546,0.0
+Nut,546,1278.848
+Powder,546,80.0
+Supplement,546,0.0
+Tobacco,546,0.0
+BreadCrumb,547,84.0
+Candy,547,0.0
+Default,547,0.0
+Dip,547,0.0
+Instant,547,0.0
+Not Available,547,0.0
+Nut,547,588.0
+Powder,547,0.0
+Supplement,547,0.0
+Tobacco,547,0.0
+BreadCrumb,552,0.0
+Candy,552,0.0
+Default,552,0.0
+Dip,552,0.0
+Instant,552,0.0
+Not Available,552,0.0
+Nut,552,365.46
+Powder,552,0.0
+Supplement,552,18.144
+Tobacco,552,0.0
+BreadCrumb,557,185.07999999999998
+Candy,557,0.0
+Default,557,0.0
+Dip,557,0.0
+Instant,557,0.0
+Not Available,557,0.0
+Nut,557,300.656
+Powder,557,0.0
+Supplement,557,0.0
+Tobacco,557,0.0
+BreadCrumb,558,0.0
+Candy,558,0.0
+Default,558,0.0
+Dip,558,0.0
+Instant,558,0.0
+Not Available,558,0.0
+Nut,558,506.376
+Powder,558,0.0
+Supplement,558,0.0
+Tobacco,558,0.0
+BreadCrumb,559,0.0
+Candy,559,0.0
+Default,559,0.0
+Dip,559,0.0
+Instant,559,0.0
+Not Available,559,0.0
+Nut,559,1032.09
+Powder,559,0.0
+Supplement,559,0.0
+Tobacco,559,12.48
+BreadCrumb,560,0.0
+Candy,560,0.0
+Default,560,0.0
+Dip,560,0.0
+Instant,560,0.0
+Not Available,560,0.0
+Nut,560,868.9159999999999
+Powder,560,0.0
+Supplement,560,0.0
+Tobacco,560,0.0
+BreadCrumb,561,0.0
+Candy,561,0.0
+Default,561,0.0
+Dip,561,0.0
+Instant,561,0.0
+Not Available,561,0.0
+Nut,561,2469.368
+Powder,561,0.0
+Supplement,561,16.848
+Tobacco,561,0.0
+BreadCrumb,564,0.0
+Candy,564,0.0
+Default,564,0.0
+Dip,564,0.0
+Instant,564,0.0
+Not Available,564,0.0
+Nut,564,658.156
+Powder,564,0.0
+Supplement,564,0.0
+Tobacco,564,0.0
+BreadCrumb,565,0.0
+Candy,565,0.0
+Default,565,0.0
+Dip,565,0.0
+Instant,565,0.0
+Not Available,565,0.0
+Nut,565,673.5319999999999
+Powder,565,0.0
+Supplement,565,0.0
+Tobacco,565,0.0
+BreadCrumb,566,0.0
+Candy,566,0.0
+Default,566,0.0
+Dip,566,0.0
+Instant,566,0.0
+Not Available,566,0.0
+Nut,566,482.616
+Powder,566,0.0
+Supplement,566,0.0
+Tobacco,566,0.0
+BreadCrumb,567,0.0
+Candy,567,0.0
+Default,567,0.0
+Dip,567,0.0
+Instant,567,0.0
+Not Available,567,0.0
+Nut,567,1928.124
+Powder,567,0.0
+Supplement,567,0.0
+Tobacco,567,0.0
+BreadCrumb,568,0.0
+Candy,568,0.0
+Default,568,0.0
+Dip,568,0.0
+Instant,568,0.0
+Not Available,568,0.0
+Nut,568,527.904
+Powder,568,0.0
+Supplement,568,0.0
+Tobacco,568,0.0
+BreadCrumb,571,166.04000000000002
+Candy,571,0.0
+Default,571,0.0
+Dip,571,0.0
+Instant,571,0.0
+Not Available,571,0.0
+Nut,571,2183.808
+Powder,571,0.0
+Supplement,571,0.0
+Tobacco,571,0.0
+BreadCrumb,572,0.0
+Candy,572,0.0
+Default,572,0.0
+Dip,572,0.0
+Instant,572,0.0
+Not Available,572,0.0
+Nut,572,719.294
+Powder,572,0.0
+Supplement,572,0.0
+Tobacco,572,0.0
+BreadCrumb,573,0.0
+Candy,573,0.0
+Default,573,0.0
+Dip,573,0.0
+Instant,573,0.0
+Not Available,573,0.0
+Nut,573,483.952
+Powder,573,0.0
+Supplement,573,0.0
+Tobacco,573,0.0
+BreadCrumb,574,0.0
+Candy,574,0.0
+Default,574,0.0
+Dip,574,0.0
+Instant,574,0.0
+Not Available,574,0.0
+Nut,574,806.4
+Powder,574,0.0
+Supplement,574,0.0
+Tobacco,574,0.0
+BreadCrumb,575,185.07999999999998
+Candy,575,0.0
+Default,575,0.0
+Dip,575,0.0
+Instant,575,0.0
+Not Available,575,0.0
+Nut,575,575.8399999999999
+Powder,575,0.0
+Supplement,575,0.0
+Tobacco,575,0.0
+BreadCrumb,578,0.0
+Candy,578,0.0
+Default,578,0.0
+Dip,578,0.0
+Instant,578,0.0
+Not Available,578,0.0
+Nut,578,718.8959999999997
+Powder,578,0.0
+Supplement,578,0.0
+Tobacco,578,0.0
+BreadCrumb,579,0.0
+Candy,579,0.0
+Default,579,0.0
+Dip,579,0.0
+Instant,579,0.0
+Not Available,579,0.0
+Nut,579,2507.24
+Powder,579,0.0
+Supplement,579,0.0
+Tobacco,579,0.0
+BreadCrumb,580,0.0
+Candy,580,0.0
+Default,580,0.0
+Dip,580,0.0
+Instant,580,0.0
+Not Available,580,0.0
+Nut,580,788.7360000000002
+Powder,580,0.0
+Supplement,580,0.0
+Tobacco,580,0.0
+BreadCrumb,581,0.0
+Candy,581,0.0
+Default,581,0.0
+Dip,581,0.0
+Instant,581,0.0
+Not Available,581,0.0
+Nut,581,646.0559999999999
+Powder,581,0.0
+Supplement,581,0.0
+Tobacco,581,0.0
+BreadCrumb,582,0.0
+Candy,582,0.0
+Default,582,0.0
+Dip,582,0.0
+Instant,582,0.0
+Not Available,582,0.0
+Nut,582,733.328
+Powder,582,0.0
+Supplement,582,0.0
+Tobacco,582,0.0
+BreadCrumb,585,0.0
+Candy,585,0.0
+Default,585,0.0
+Dip,585,0.0
+Instant,585,0.0
+Not Available,585,0.0
+Nut,585,601.64
+Powder,585,0.0
+Supplement,585,0.0
+Tobacco,585,0.0
+BreadCrumb,586,0.0
+Candy,586,0.0
+Default,586,0.0
+Dip,586,0.0
+Instant,586,0.0
+Not Available,586,0.0
+Nut,586,422.76
+Powder,586,0.0
+Supplement,586,0.0
+Tobacco,586,0.0
+BreadCrumb,587,0.0
+Candy,587,0.0
+Default,587,0.0
+Dip,587,0.0
+Instant,587,0.0
+Not Available,587,0.0
+Nut,587,1947.4679999999998
+Powder,587,0.0
+Supplement,587,0.0
+Tobacco,587,0.0
+BreadCrumb,588,0.0
+Candy,588,0.0
+Default,588,0.0
+Dip,588,0.0
+Instant,588,0.0
+Not Available,588,0.0
+Nut,588,449.232
+Powder,588,34.992000000000004
+Supplement,588,0.0
+Tobacco,588,0.0
+BreadCrumb,589,0.0
+Candy,589,0.0
+Default,589,0.0
+Dip,589,0.0
+Instant,589,0.0
+Not Available,589,0.0
+Nut,589,244.296
+Powder,589,0.0
+Supplement,589,0.0
+Tobacco,589,0.0
+BreadCrumb,592,0.0
+Candy,592,0.0
+Default,592,0.0
+Dip,592,0.0
+Instant,592,0.0
+Not Available,592,0.0
+Nut,592,960.9959999999998
+Powder,592,0.0
+Supplement,592,0.0
+Tobacco,592,0.0
+BreadCrumb,593,0.0
+Candy,593,0.0
+Default,593,0.0
+Dip,593,0.0
+Instant,593,0.0
+Not Available,593,0.0
+Nut,593,347.72400000000005
+Powder,593,0.0
+Supplement,593,0.0
+Tobacco,593,0.0
+BreadCrumb,594,0.0
+Candy,594,0.0
+Default,594,0.0
+Dip,594,0.0
+Instant,594,0.0
+Not Available,594,0.0
+Nut,594,869.852
+Powder,594,50.544
+Supplement,594,0.0
+Tobacco,594,0.0
+BreadCrumb,595,166.32
+Candy,595,0.0
+Default,595,0.0
+Dip,595,0.0
+Instant,595,0.0
+Not Available,595,0.0
+Nut,595,1238.9859999999999
+Powder,595,0.0
+Supplement,595,0.0
+Tobacco,595,0.0
+BreadCrumb,596,0.0
+Candy,596,0.0
+Default,596,0.0
+Dip,596,0.0
+Instant,596,0.0
+Not Available,596,0.0
+Nut,596,2259.708
+Powder,596,50.256
+Supplement,596,51.84
+Tobacco,596,0.0
+BreadCrumb,599,0.0
+Candy,599,0.0
+Default,599,0.0
+Dip,599,0.0
+Instant,599,0.0
+Not Available,599,0.0
+Nut,599,696.2760000000001
+Powder,599,0.0
+Supplement,599,38.88
+Tobacco,599,0.0
+BreadCrumb,600,0.0
+Candy,600,0.0
+Default,600,0.0
+Dip,600,0.0
+Instant,600,0.0
+Not Available,600,0.0
+Nut,600,966.42
+Powder,600,0.0
+Supplement,600,0.0
+Tobacco,600,0.0
+BreadCrumb,601,0.0
+Candy,601,0.0
+Default,601,0.0
+Dip,601,0.0
+Instant,601,0.0
+Not Available,601,0.0
+Nut,601,2214.4919999999997
+Powder,601,0.0
+Supplement,601,120.0
+Tobacco,601,0.0
+BreadCrumb,602,0.0
+Candy,602,0.0
+Default,602,0.0
+Dip,602,0.0
+Instant,602,0.0
+Not Available,602,0.0
+Nut,602,368.98400000000004
+Powder,602,0.0
+Supplement,602,0.0
+Tobacco,602,0.0
+BreadCrumb,603,0.0
+Candy,603,0.0
+Default,603,0.0
+Dip,603,0.0
+Instant,603,0.0
+Not Available,603,0.0
+Nut,603,370.656
+Powder,603,0.0
+Supplement,603,110.336
+Tobacco,603,0.0
+BreadCrumb,606,0.0
+Candy,606,0.0
+Default,606,0.0
+Dip,606,0.0
+Instant,606,0.0
+Not Available,606,0.0
+Nut,606,2627.82
+Powder,606,0.0
+Supplement,606,120.0
+Tobacco,606,0.0
+BreadCrumb,607,0.0
+Candy,607,0.0
+Default,607,0.0
+Dip,607,0.0
+Instant,607,0.0
+Not Available,607,0.0
+Nut,607,278.772
+Powder,607,0.0
+Supplement,607,0.0
+Tobacco,607,0.0
+BreadCrumb,608,0.0
+Candy,608,0.0
+Default,608,0.0
+Dip,608,0.0
+Instant,608,0.0
+Not Available,608,0.0
+Nut,608,431.964
+Powder,608,36.72
+Supplement,608,0.0
+Tobacco,608,0.0
+BreadCrumb,609,0.0
+Candy,609,0.0
+Default,609,0.0
+Dip,609,0.0
+Instant,609,0.0
+Not Available,609,0.0
+Nut,609,905.962
+Powder,609,0.0
+Supplement,609,0.0
+Tobacco,609,0.0
+BreadCrumb,610,0.0
+Candy,610,0.0
+Default,610,0.0
+Dip,610,0.0
+Instant,610,0.0
+Not Available,610,0.0
+Nut,610,123.396
+Powder,610,0.0
+Supplement,610,0.0
+Tobacco,610,0.0
+BreadCrumb,611,0.0
+Candy,611,0.0
+Default,611,0.0
+Dip,611,0.0
+Instant,611,0.0
+Not Available,611,0.0
+Nut,611,387.34799999999996
+Powder,611,0.0
+Supplement,611,0.0
+Tobacco,611,0.0
+BreadCrumb,614,0.0
+Candy,614,0.0
+Default,614,0.0
+Dip,614,0.0
+Instant,614,0.0
+Not Available,614,0.0
+Nut,614,2889.864
+Powder,614,0.0
+Supplement,614,0.0
+Tobacco,614,0.0
+BreadCrumb,615,0.0
+Candy,615,0.0
+Default,615,0.0
+Dip,615,0.0
+Instant,615,0.0
+Not Available,615,0.0
+Nut,615,585.46
+Powder,615,0.0
+Supplement,615,0.0
+Tobacco,615,0.0
+BreadCrumb,616,0.0
+Candy,616,0.0
+Default,616,0.0
+Dip,616,0.0
+Instant,616,0.0
+Not Available,616,0.0
+Nut,616,765.9479999999999
+Powder,616,0.0
+Supplement,616,0.0
+Tobacco,616,0.0
+BreadCrumb,617,155.68
+Candy,617,0.0
+Default,617,0.0
+Dip,617,0.0
+Instant,617,0.0
+Not Available,617,0.0
+Nut,617,2315.216
+Powder,617,0.0
+Supplement,617,57.024
+Tobacco,617,0.0
+BreadCrumb,618,0.0
+Candy,618,0.0
+Default,618,0.0
+Dip,618,0.0
+Instant,618,0.0
+Not Available,618,0.0
+Nut,618,303.888
+Powder,618,0.0
+Supplement,618,0.0
+Tobacco,618,0.0
+BreadCrumb,619,0.0
+Candy,619,0.0
+Default,619,0.0
+Dip,619,0.0
+Instant,619,0.0
+Not Available,619,0.0
+Nut,619,177.84
+Powder,619,0.0
+Supplement,619,0.0
+Tobacco,619,0.0
+BreadCrumb,620,0.0
+Candy,620,0.0
+Default,620,0.0
+Dip,620,0.0
+Instant,620,0.0
+Not Available,620,0.0
+Nut,620,2180.9520000000007
+Powder,620,0.0
+Supplement,620,53.135999999999996
+Tobacco,620,0.0
+BreadCrumb,621,0.0
+Candy,621,0.0
+Default,621,0.0
+Dip,621,0.0
+Instant,621,0.0
+Not Available,621,0.0
+Nut,621,597.7920000000001
+Powder,621,0.0
+Supplement,621,11.232000000000001
+Tobacco,621,0.0
+BreadCrumb,622,166.32
+Candy,622,0.0
+Default,622,0.0
+Dip,622,0.0
+Instant,622,0.0
+Not Available,622,0.0
+Nut,622,1082.216
+Powder,622,135.73000000000002
+Supplement,622,0.0
+Tobacco,622,0.0
+BreadCrumb,623,0.0
+Candy,623,0.0
+Default,623,0.0
+Dip,623,0.0
+Instant,623,0.0
+Not Available,623,0.0
+Nut,623,470.49600000000004
+Powder,623,0.0
+Supplement,623,35.568000000000005
+Tobacco,623,0.0
+BreadCrumb,624,0.0
+Candy,624,0.0
+Default,624,0.0
+Dip,624,0.0
+Instant,624,0.0
+Not Available,624,0.0
+Nut,624,2223.364
+Powder,624,0.0
+Supplement,624,0.0
+Tobacco,624,0.0
+BreadCrumb,625,0.0
+Candy,625,0.0
+Default,625,0.0
+Dip,625,0.0
+Instant,625,0.0
+Not Available,625,0.0
+Nut,625,604.328
+Powder,625,0.0
+Supplement,625,0.0
+Tobacco,625,0.0
+BreadCrumb,626,0.0
+Candy,626,0.0
+Default,626,0.0
+Dip,626,0.0
+Instant,626,0.0
+Not Available,626,0.0
+Nut,626,655.0759999999999
+Powder,626,0.0
+Supplement,626,0.0
+Tobacco,626,0.0
+BreadCrumb,627,0.0
+Candy,627,0.0
+Default,627,0.0
+Dip,627,0.0
+Instant,627,0.0
+Not Available,627,0.0
+Nut,627,2393.372
+Powder,627,0.0
+Supplement,627,30.240000000000002
+Tobacco,627,0.0
+BreadCrumb,628,0.0
+Candy,628,0.0
+Default,628,0.0
+Dip,628,0.0
+Instant,628,0.0
+Not Available,628,0.0
+Nut,628,490.4040000000001
+Powder,628,0.0
+Supplement,628,0.0
+Tobacco,628,0.0
+BreadCrumb,629,0.0
+Candy,629,0.0
+Default,629,0.0
+Dip,629,0.0
+Instant,629,0.0
+Not Available,629,0.0
+Nut,629,196.56
+Powder,629,0.0
+Supplement,629,0.0
+Tobacco,629,0.0
+BreadCrumb,630,0.0
+Candy,630,0.0
+Default,630,0.0
+Dip,630,0.0
+Instant,630,0.0
+Not Available,630,0.0
+Nut,630,478.14
+Powder,630,0.0
+Supplement,630,34.848
+Tobacco,630,0.0
+BreadCrumb,631,0.0
+Candy,631,0.0
+Default,631,0.0
+Dip,631,0.0
+Instant,631,0.0
+Not Available,631,0.0
+Nut,631,2065.8720000000003
+Powder,631,57.023999999999994
+Supplement,631,0.0
+Tobacco,631,0.0
+BreadCrumb,632,0.0
+Candy,632,0.0
+Default,632,0.0
+Dip,632,0.0
+Instant,632,0.0
+Not Available,632,0.0
+Nut,632,470.652
+Powder,632,0.0
+Supplement,632,0.0
+Tobacco,632,0.0
+BreadCrumb,633,0.0
+Candy,633,0.0
+Default,633,0.0
+Dip,633,0.0
+Instant,633,0.0
+Not Available,633,0.0
+Nut,633,236.184
+Powder,633,0.0
+Supplement,633,0.0
+Tobacco,633,0.0
+BreadCrumb,634,0.0
+Candy,634,0.0
+Default,634,0.0
+Dip,634,0.0
+Instant,634,0.0
+Not Available,634,0.0
+Nut,634,661.2839999999999
+Powder,634,22.607999999999997
+Supplement,634,0.0
+Tobacco,634,0.0
+BreadCrumb,635,84.28
+Candy,635,0.0
+Default,635,0.0
+Dip,635,0.0
+Instant,635,0.0
+Not Available,635,0.0
+Nut,635,516.2479999999999
+Powder,635,116.25
+Supplement,635,0.0
+Tobacco,635,0.0
+BreadCrumb,636,0.0
+Candy,636,0.0
+Default,636,0.0
+Dip,636,0.0
+Instant,636,0.0
+Not Available,636,0.0
+Nut,636,2266.42
+Powder,636,0.0
+Supplement,636,0.0
+Tobacco,636,0.0
+BreadCrumb,637,0.0
+Candy,637,0.0
+Default,637,0.0
+Dip,637,0.0
+Instant,637,0.0
+Not Available,637,0.0
+Nut,637,367.22400000000005
+Powder,637,0.0
+Supplement,637,0.0
+Tobacco,637,0.0
+BreadCrumb,638,0.0
+Candy,638,0.0
+Default,638,0.0
+Dip,638,0.0
+Instant,638,0.0
+Not Available,638,0.0
+Nut,638,548.816
+Powder,638,44.06399999999999
+Supplement,638,0.0
+Tobacco,638,0.0
+BreadCrumb,639,0.0
+Candy,639,0.0
+Default,639,0.0
+Dip,639,0.0
+Instant,639,0.0
+Not Available,639,0.0
+Nut,639,650.036
+Powder,639,0.0
+Supplement,639,0.0
+Tobacco,639,0.0
+BreadCrumb,641,0.0
+Candy,641,0.0
+Default,641,0.0
+Dip,641,0.0
+Instant,641,0.0
+Not Available,641,0.0
+Nut,641,2715.336
+Powder,641,0.0
+Supplement,641,61.776
+Tobacco,641,0.0
+BreadCrumb,642,0.0
+Candy,642,0.0
+Default,642,0.0
+Dip,642,0.0
+Instant,642,0.0
+Not Available,642,0.0
+Nut,642,1110.7159999999997
+Powder,642,0.0
+Supplement,642,53.856
+Tobacco,642,0.0
+BreadCrumb,643,0.0
+Candy,643,0.0
+Default,643,0.0
+Dip,643,0.0
+Instant,643,0.0
+Not Available,643,0.0
+Nut,643,654.6719999999999
+Powder,643,0.0
+Supplement,643,0.0
+Tobacco,643,0.0
+BreadCrumb,644,166.32
+Candy,644,0.0
+Default,644,0.0
+Dip,644,0.0
+Instant,644,0.0
+Not Available,644,0.0
+Nut,644,458.952
+Powder,644,0.0
+Supplement,644,52.416000000000004
+Tobacco,644,0.0
+BreadCrumb,645,0.0
+Candy,645,0.0
+Default,645,0.0
+Dip,645,0.0
+Instant,645,0.0
+Not Available,645,0.0
+Nut,645,2545.62
+Powder,645,0.0
+Supplement,645,57.023999999999994
+Tobacco,645,0.0
+BreadCrumb,646,0.0
+Candy,646,0.0
+Default,646,0.0
+Dip,646,0.0
+Instant,646,0.0
+Not Available,646,0.0
+Nut,646,302.0160000000001
+Powder,646,0.0
+Supplement,646,0.0
+Tobacco,646,0.0
+BreadCrumb,648,0.0
+Candy,648,0.0
+Default,648,0.0
+Dip,648,0.0
+Instant,648,0.0
+Not Available,648,0.0
+Nut,648,722.13
+Powder,648,0.0
+Supplement,648,0.0
+Tobacco,648,0.0
+BreadCrumb,649,0.0
+Candy,649,0.0
+Default,649,0.0
+Dip,649,0.0
+Instant,649,0.0
+Not Available,649,0.0
+Nut,649,463.16399999999993
+Powder,649,0.0
+Supplement,649,0.0
+Tobacco,649,0.0
+BreadCrumb,650,0.0
+Candy,650,0.0
+Default,650,0.0
+Dip,650,0.0
+Instant,650,0.0
+Not Available,650,0.0
+Nut,650,265.044
+Powder,650,0.0
+Supplement,650,0.0
+Tobacco,650,0.0
+BreadCrumb,651,0.0
+Candy,651,0.0
+Default,651,0.0
+Dip,651,0.0
+Instant,651,0.0
+Not Available,651,0.0
+Nut,651,495.0319999999999
+Powder,651,0.0
+Supplement,651,0.0
+Tobacco,651,0.0
+BreadCrumb,652,0.0
+Candy,652,0.0
+Default,652,0.0
+Dip,652,0.0
+Instant,652,0.0
+Not Available,652,0.0
+Nut,652,1901.9160000000002
+Powder,652,0.0
+Supplement,652,28.944000000000003
+Tobacco,652,0.0
+BreadCrumb,653,0.0
+Candy,653,0.0
+Default,653,0.0
+Dip,653,0.0
+Instant,653,0.0
+Not Available,653,0.0
+Nut,653,340.70399999999995
+Powder,653,0.0
+Supplement,653,0.0
+Tobacco,653,0.0
+BreadCrumb,655,0.0
+Candy,655,0.0
+Default,655,0.0
+Dip,655,0.0
+Instant,655,0.0
+Not Available,655,0.0
+Nut,655,577.512
+Powder,655,0.0
+Supplement,655,0.0
+Tobacco,655,106.164
+BreadCrumb,656,0.0
+Candy,656,0.0
+Default,656,0.0
+Dip,656,0.0
+Instant,656,0.0
+Not Available,656,0.0
+Nut,656,438.984
+Powder,656,47.952
+Supplement,656,0.0
+Tobacco,656,0.0
+BreadCrumb,657,0.0
+Candy,657,0.0
+Default,657,0.0
+Dip,657,0.0
+Instant,657,0.0
+Not Available,657,0.0
+Nut,657,2273.44
+Powder,657,0.0
+Supplement,657,0.0
+Tobacco,657,0.0
+BreadCrumb,658,0.0
+Candy,658,0.0
+Default,658,0.0
+Dip,658,0.0
+Instant,658,0.0
+Not Available,658,0.0
+Nut,658,488.59200000000004
+Powder,658,0.0
+Supplement,658,0.0
+Tobacco,658,0.0
+BreadCrumb,659,0.0
+Candy,659,0.0
+Default,659,0.0
+Dip,659,0.0
+Instant,659,0.0
+Not Available,659,0.0
+Nut,659,814.512
+Powder,659,46.512
+Supplement,659,137.12
+Tobacco,659,0.0
+BreadCrumb,660,0.0
+Candy,660,0.0
+Default,660,0.0
+Dip,660,0.0
+Instant,660,0.0
+Not Available,660,0.0
+Nut,660,552.836
+Powder,660,0.0
+Supplement,660,0.0
+Tobacco,660,0.0
+BreadCrumb,662,0.0
+Candy,662,0.0
+Default,662,0.0
+Dip,662,0.0
+Instant,662,0.0
+Not Available,662,0.0
+Nut,662,2571.9
+Powder,662,0.0
+Supplement,662,0.0
+Tobacco,662,0.0
+BreadCrumb,663,0.0
+Candy,663,0.0
+Default,663,0.0
+Dip,663,0.0
+Instant,663,0.0
+Not Available,663,0.0
+Nut,663,813.132
+Powder,663,0.0
+Supplement,663,0.0
+Tobacco,663,0.0
+BreadCrumb,664,0.0
+Candy,664,0.0
+Default,664,0.0
+Dip,664,0.0
+Instant,664,0.0
+Not Available,664,0.0
+Nut,664,526.5059999999999
+Powder,664,0.0
+Supplement,664,0.0
+Tobacco,664,0.0
+BreadCrumb,665,0.0
+Candy,665,0.0
+Default,665,0.0
+Dip,665,0.0
+Instant,665,0.0
+Not Available,665,0.0
+Nut,665,406.38000000000005
+Powder,665,0.0
+Supplement,665,0.0
+Tobacco,665,0.0
+BreadCrumb,666,0.0
+Candy,666,0.0
+Default,666,0.0
+Dip,666,0.0
+Instant,666,0.0
+Not Available,666,0.0
+Nut,666,306.07200000000006
+Powder,666,0.0
+Supplement,666,0.0
+Tobacco,666,0.0
+BreadCrumb,668,0.0
+Candy,668,0.0
+Default,668,0.0
+Dip,668,0.0
+Instant,668,0.0
+Not Available,668,0.0
+Nut,668,1596.0
+Powder,668,0.0
+Supplement,668,0.0
+Tobacco,668,0.0
+BreadCrumb,669,0.0
+Candy,669,0.0
+Default,669,0.0
+Dip,669,0.0
+Instant,669,0.0
+Not Available,669,0.0
+Nut,669,598.7280000000001
+Powder,669,0.0
+Supplement,669,126.432
+Tobacco,669,0.0
+BreadCrumb,670,0.0
+Candy,670,0.0
+Default,670,0.0
+Dip,670,0.0
+Instant,670,0.0
+Not Available,670,0.0
+Nut,670,510.744
+Powder,670,0.0
+Supplement,670,0.0
+Tobacco,670,0.0
+BreadCrumb,671,351.4
+Candy,671,0.0
+Default,671,0.0
+Dip,671,0.0
+Instant,671,0.0
+Not Available,671,0.0
+Nut,671,2135.692
+Powder,671,0.0
+Supplement,671,57.023999999999994
+Tobacco,671,0.0
+BreadCrumb,672,0.0
+Candy,672,0.0
+Default,672,0.0
+Dip,672,0.0
+Instant,672,0.0
+Not Available,672,0.0
+Nut,672,330.608
+Powder,672,0.0
+Supplement,672,317.024
+Tobacco,672,0.0
+BreadCrumb,673,0.0
+Candy,673,0.0
+Default,673,0.0
+Dip,673,0.0
+Instant,673,0.0
+Not Available,673,0.0
+Nut,673,635.5999999999999
+Powder,673,0.0
+Supplement,673,0.0
+Tobacco,673,0.0
+BreadCrumb,674,0.0
+Candy,674,0.0
+Default,674,0.0
+Dip,674,0.0
+Instant,674,0.0
+Not Available,674,0.0
+Nut,674,336.80400000000003
+Powder,674,0.0
+Supplement,674,0.0
+Tobacco,674,0.0
+BreadCrumb,676,0.0
+Candy,676,0.0
+Default,676,0.0
+Dip,676,0.0
+Instant,676,0.0
+Not Available,676,0.0
+Nut,676,2495.5679999999993
+Powder,676,0.0
+Supplement,676,0.0
+Tobacco,676,0.0
+BreadCrumb,677,0.0
+Candy,677,0.0
+Default,677,0.0
+Dip,677,0.0
+Instant,677,0.0
+Not Available,677,0.0
+Nut,677,796.9439999999998
+Powder,677,0.0
+Supplement,677,0.0
+Tobacco,677,0.0
+BreadCrumb,678,0.0
+Candy,678,0.0
+Default,678,0.0
+Dip,678,0.0
+Instant,678,0.0
+Not Available,678,0.0
+Nut,678,267.69599999999997
+Powder,678,0.0
+Supplement,678,0.0
+Tobacco,678,0.0
+BreadCrumb,679,0.0
+Candy,679,0.0
+Default,679,0.0
+Dip,679,0.0
+Instant,679,0.0
+Not Available,679,0.0
+Nut,679,502.05199999999996
+Powder,679,0.0
+Supplement,679,0.0
+Tobacco,679,0.0
+BreadCrumb,680,0.0
+Candy,680,0.0
+Default,680,0.0
+Dip,680,0.0
+Instant,680,0.0
+Not Available,680,0.0
+Nut,680,2107.368
+Powder,680,0.0
+Supplement,680,0.0
+Tobacco,680,0.0
+BreadCrumb,681,0.0
+Candy,681,0.0
+Default,681,0.0
+Dip,681,0.0
+Instant,681,0.0
+Not Available,681,0.0
+Nut,681,450.528
+Powder,681,0.0
+Supplement,681,0.0
+Tobacco,681,0.0
+BreadCrumb,682,0.0
+Candy,682,0.0
+Default,682,0.0
+Dip,682,0.0
+Instant,682,0.0
+Not Available,682,0.0
+Nut,682,545.532
+Powder,682,0.0
+Supplement,682,0.0
+Tobacco,682,0.0
+BreadCrumb,683,0.0
+Candy,683,0.0
+Default,683,0.0
+Dip,683,0.0
+Instant,683,0.0
+Not Available,683,0.0
+Nut,683,830.2860000000001
+Powder,683,0.0
+Supplement,683,0.0
+Tobacco,683,0.0
+BreadCrumb,684,0.0
+Candy,684,0.0
+Default,684,0.0
+Dip,684,0.0
+Instant,684,0.0
+Not Available,684,0.0
+Nut,684,941.3
+Powder,684,0.0
+Supplement,684,110.16
+Tobacco,684,0.0
+BreadCrumb,685,86.24
+Candy,685,0.0
+Default,685,0.0
+Dip,685,0.0
+Instant,685,0.0
+Not Available,685,7.2
+Nut,685,1109.388
+Powder,685,0.0
+Supplement,685,46.08
+Tobacco,685,0.0
+BreadCrumb,686,0.0
+Candy,686,0.0
+Default,686,0.0
+Dip,686,0.0
+Instant,686,0.0
+Not Available,686,0.0
+Nut,686,2135.18
+Powder,686,0.0
+Supplement,686,15.984000000000002
+Tobacco,686,0.0
+BreadCrumb,687,0.0
+Candy,687,0.0
+Default,687,0.0
+Dip,687,0.0
+Instant,687,0.0
+Not Available,687,0.0
+Nut,687,493.004
+Powder,687,0.0
+Supplement,687,0.0
+Tobacco,687,0.0
+BreadCrumb,688,0.0
+Candy,688,0.0
+Default,688,0.0
+Dip,688,0.0
+Instant,688,0.0
+Not Available,688,0.0
+Nut,688,406.536
+Powder,688,0.0
+Supplement,688,0.0
+Tobacco,688,0.0
+BreadCrumb,689,0.0
+Candy,689,0.0
+Default,689,0.0
+Dip,689,0.0
+Instant,689,0.0
+Not Available,689,0.0
+Nut,689,1983.036
+Powder,689,0.0
+Supplement,689,0.0
+Tobacco,689,0.0
+BreadCrumb,690,0.0
+Candy,690,0.0
+Default,690,0.0
+Dip,690,0.0
+Instant,690,0.0
+Not Available,690,0.0
+Nut,690,2199.72
+Powder,690,0.0
+Supplement,690,0.0
+Tobacco,690,0.0
+BreadCrumb,691,0.0
+Candy,691,0.0
+Default,691,0.0
+Dip,691,0.0
+Instant,691,0.0
+Not Available,691,0.0
+Nut,691,683.592
+Powder,691,0.0
+Supplement,691,0.0
+Tobacco,691,0.0
+BreadCrumb,692,0.0
+Candy,692,0.0
+Default,692,0.0
+Dip,692,0.0
+Instant,692,0.0
+Not Available,692,0.0
+Nut,692,642.9679999999998
+Powder,692,0.0
+Supplement,692,0.0
+Tobacco,692,0.0
+BreadCrumb,697,0.0
+Candy,697,0.0
+Default,697,0.0
+Dip,697,0.0
+Instant,697,0.0
+Not Available,697,0.0
+Nut,697,1200.924
+Powder,697,0.0
+Supplement,697,0.0
+Tobacco,697,0.0
+BreadCrumb,698,0.0
+Candy,698,0.0
+Default,698,0.0
+Dip,698,0.0
+Instant,698,0.0
+Not Available,698,0.0
+Nut,698,614.562
+Powder,698,11.664000000000001
+Supplement,698,0.0
+Tobacco,698,0.0
+BreadCrumb,699,0.0
+Candy,699,0.0
+Default,699,0.0
+Dip,699,0.0
+Instant,699,0.0
+Not Available,699,0.0
+Nut,699,1958.7
+Powder,699,0.0
+Supplement,699,0.0
+Tobacco,699,0.0
+BreadCrumb,700,0.0
+Candy,700,0.0
+Default,700,0.0
+Dip,700,0.0
+Instant,700,0.0
+Not Available,700,0.0
+Nut,700,701.5079999999998
+Powder,700,53.135999999999996
+Supplement,700,0.0
+Tobacco,700,0.0
+BreadCrumb,701,0.0
+Candy,701,0.0
+Default,701,0.0
+Dip,701,0.0
+Instant,701,0.0
+Not Available,701,0.0
+Nut,701,1960.104
+Powder,701,5.0
+Supplement,701,57.024
+Tobacco,701,0.0
+BreadCrumb,702,0.0
+Candy,702,0.0
+Default,702,0.0
+Dip,702,0.0
+Instant,702,0.0
+Not Available,702,0.0
+Nut,702,407.472
+Powder,702,0.0
+Supplement,702,0.0
+Tobacco,702,0.0
+BreadCrumb,703,0.0
+Candy,703,0.0
+Default,703,0.0
+Dip,703,0.0
+Instant,703,0.0
+Not Available,703,0.0
+Nut,703,251.16
+Powder,703,0.0
+Supplement,703,0.0
+Tobacco,703,0.0
+BreadCrumb,704,0.0
+Candy,704,0.0
+Default,704,0.0
+Dip,704,0.0
+Instant,704,0.0
+Not Available,704,0.0
+Nut,704,621.036
+Powder,704,0.0
+Supplement,704,0.0
+Tobacco,704,0.0
+BreadCrumb,705,0.0
+Candy,705,0.0
+Default,705,0.0
+Dip,705,0.0
+Instant,705,0.0
+Not Available,705,0.0
+Nut,705,2463.7039999999997
+Powder,705,0.0
+Supplement,705,29.808
+Tobacco,705,0.0
+BreadCrumb,706,0.0
+Candy,706,0.0
+Default,706,0.0
+Dip,706,0.0
+Instant,706,0.0
+Not Available,706,0.0
+Nut,706,669.764
+Powder,706,0.0
+Supplement,706,140.0
+Tobacco,706,0.0
+BreadCrumb,707,0.0
+Candy,707,0.0
+Default,707,0.0
+Dip,707,0.0
+Instant,707,0.0
+Not Available,707,0.0
+Nut,707,338.83199999999994
+Powder,707,0.0
+Supplement,707,57.023999999999994
+Tobacco,707,0.0
+BreadCrumb,708,0.0
+Candy,708,0.0
+Default,708,0.0
+Dip,708,0.0
+Instant,708,120.0
+Not Available,708,0.0
+Nut,708,326.664
+Powder,708,0.0
+Supplement,708,87.984
+Tobacco,708,0.0
+BreadCrumb,709,0.0
+Candy,709,0.0
+Default,709,0.0
+Dip,709,0.0
+Instant,709,0.0
+Not Available,709,0.0
+Nut,709,494.67600000000004
+Powder,709,0.0
+Supplement,709,0.0
+Tobacco,709,0.0
+BreadCrumb,711,0.0
+Candy,711,0.0
+Default,711,0.0
+Dip,711,0.0
+Instant,711,0.0
+Not Available,711,0.0
+Nut,711,2351.04
+Powder,711,0.0
+Supplement,711,101.84
+Tobacco,711,0.0
+BreadCrumb,712,0.0
+Candy,712,0.0
+Default,712,0.0
+Dip,712,0.0
+Instant,712,0.0
+Not Available,712,0.0
+Nut,712,750.7040000000001
+Powder,712,0.0
+Supplement,712,0.0
+Tobacco,712,0.0
+BreadCrumb,713,0.0
+Candy,713,0.0
+Default,713,0.0
+Dip,713,0.0
+Instant,713,0.0
+Not Available,713,0.0
+Nut,713,642.2080000000001
+Powder,713,0.0
+Supplement,713,107.024
+Tobacco,713,0.0
+BreadCrumb,714,0.0
+Candy,714,0.0
+Default,714,0.0
+Dip,714,0.0
+Instant,714,0.0
+Not Available,714,0.0
+Nut,714,503.6119999999999
+Powder,714,20.88
+Supplement,714,0.0
+Tobacco,714,0.0
+BreadCrumb,715,0.0
+Candy,715,0.0
+Default,715,0.0
+Dip,715,0.0
+Instant,715,0.0
+Not Available,715,0.0
+Nut,715,482.196
+Powder,715,0.0
+Supplement,715,0.0
+Tobacco,715,0.0
+BreadCrumb,716,0.0
+Candy,716,0.0
+Default,716,0.0
+Dip,716,0.0
+Instant,716,0.0
+Not Available,716,0.0
+Nut,716,302.172
+Powder,716,0.0
+Supplement,716,0.0
+Tobacco,716,0.0
+BreadCrumb,717,0.0
+Candy,717,0.0
+Default,717,0.0
+Dip,717,0.0
+Instant,717,0.0
+Not Available,717,0.0
+Nut,717,1596.0
+Powder,717,0.0
+Supplement,717,0.0
+Tobacco,717,0.0
+BreadCrumb,718,0.0
+Candy,718,0.0
+Default,718,0.0
+Dip,718,0.0
+Instant,718,0.0
+Not Available,718,0.0
+Nut,718,595.9200000000001
+Powder,718,0.0
+Supplement,718,150.0
+Tobacco,718,0.0
+BreadCrumb,719,0.0
+Candy,719,0.0
+Default,719,0.0
+Dip,719,0.0
+Instant,719,0.0
+Not Available,719,0.0
+Nut,719,609.6599999999999
+Powder,719,0.0
+Supplement,719,50.0
+Tobacco,719,0.0
+BreadCrumb,720,0.0
+Candy,720,0.0
+Default,720,0.0
+Dip,720,0.0
+Instant,720,90.0
+Not Available,720,0.0
+Nut,720,2056.756
+Powder,720,57.172
+Supplement,720,88.70400000000001
+Tobacco,720,0.0
+BreadCrumb,737,0.0
+Candy,737,0.0
+Default,737,0.0
+Dip,737,0.0
+Instant,737,0.0
+Not Available,737,0.0
+Nut,737,295.932
+Powder,737,0.0
+Supplement,737,0.0
+Tobacco,737,0.0
+BreadCrumb,739,166.32
+Candy,739,0.0
+Default,739,0.0
+Dip,739,0.0
+Instant,739,0.0
+Not Available,739,0.0
+Nut,739,392.69599999999997
+Powder,739,0.0
+Supplement,739,0.0
+Tobacco,739,0.0
+BreadCrumb,740,0.0
+Candy,740,0.0
+Default,740,0.0
+Dip,740,0.0
+Instant,740,0.0
+Not Available,740,0.0
+Nut,740,903.3839999999998
+Powder,740,23.471999999999998
+Supplement,740,0.0
+Tobacco,740,0.0
+BreadCrumb,741,0.0
+Candy,741,0.0
+Default,741,0.0
+Dip,741,0.0
+Instant,741,0.0
+Not Available,741,0.0
+Nut,741,667.0799999999999
+Powder,741,0.0
+Supplement,741,0.0
+Tobacco,741,0.0
+BreadCrumb,742,0.0
+Candy,742,0.0
+Default,742,0.0
+Dip,742,0.0
+Instant,742,0.0
+Not Available,742,0.0
+Nut,742,1061.5520000000001
+Powder,742,0.0
+Supplement,742,0.0
+Tobacco,742,0.0
+BreadCrumb,743,0.0
+Candy,743,0.0
+Default,743,0.0
+Dip,743,0.0
+Instant,743,0.0
+Not Available,743,0.0
+Nut,743,1596.0
+Powder,743,0.0
+Supplement,743,70.0
+Tobacco,743,0.0
+BreadCrumb,746,0.0
+Candy,746,0.0
+Default,746,0.0
+Dip,746,0.0
+Instant,746,0.0
+Not Available,746,0.0
+Nut,746,930.696
+Powder,746,0.0
+Supplement,746,61.184
+Tobacco,746,0.0
+BreadCrumb,747,0.0
+Candy,747,0.0
+Default,747,0.0
+Dip,747,0.0
+Instant,747,0.0
+Not Available,747,0.0
+Nut,747,1526.3319999999999
+Powder,747,0.0
+Supplement,747,55.007999999999996
+Tobacco,747,0.0
+BreadCrumb,748,166.32
+Candy,748,0.0
+Default,748,0.0
+Dip,748,0.0
+Instant,748,0.0
+Not Available,748,0.0
+Nut,748,328.224
+Powder,748,0.0
+Supplement,748,38.88
+Tobacco,748,0.0
+BreadCrumb,749,0.0
+Candy,749,0.0
+Default,749,0.0
+Dip,749,0.0
+Instant,749,0.0
+Not Available,749,0.0
+Nut,749,2025.156
+Powder,749,0.0
+Supplement,749,0.0
+Tobacco,749,0.0
+BreadCrumb,750,0.0
+Candy,750,0.0
+Default,750,0.0
+Dip,750,0.0
+Instant,750,0.0
+Not Available,750,0.0
+Nut,750,266.13599999999997
+Powder,750,0.0
+Supplement,750,0.0
+Tobacco,750,0.0
+BreadCrumb,753,0.0
+Candy,753,0.0
+Default,753,0.0
+Dip,753,0.0
+Instant,753,0.0
+Not Available,753,0.0
+Nut,753,689.6759999999999
+Powder,753,0.0
+Supplement,753,0.0
+Tobacco,753,0.0
+BreadCrumb,754,0.0
+Candy,754,0.0
+Default,754,0.0
+Dip,754,0.0
+Instant,754,0.0
+Not Available,754,0.0
+Nut,754,1023.0479999999999
+Powder,754,0.0
+Supplement,754,0.0
+Tobacco,754,0.0
+BreadCrumb,755,0.0
+Candy,755,0.0
+Default,755,0.0
+Dip,755,0.0
+Instant,755,25.0
+Not Available,755,0.0
+Nut,755,2065.916
+Powder,755,22.031999999999996
+Supplement,755,0.0
+Tobacco,755,0.0
+BreadCrumb,756,0.0
+Candy,756,0.0
+Default,756,0.0
+Dip,756,0.0
+Instant,756,0.0
+Not Available,756,0.0
+Nut,756,287.66399999999993
+Powder,756,0.0
+Supplement,756,0.0
+Tobacco,756,0.0
+BreadCrumb,757,0.0
+Candy,757,0.0
+Default,757,0.0
+Dip,757,0.0
+Instant,757,0.0
+Not Available,757,0.0
+Nut,757,893.936
+Powder,757,0.0
+Supplement,757,0.0
+Tobacco,757,0.0
+BreadCrumb,760,0.0
+Candy,760,0.0
+Default,760,0.0
+Dip,760,0.0
+Instant,760,0.0
+Not Available,760,0.0
+Nut,760,2766.5599999999995
+Powder,760,0.0
+Supplement,760,101.088
+Tobacco,760,0.0
+BreadCrumb,761,0.0
+Candy,761,0.0
+Default,761,0.0
+Dip,761,0.0
+Instant,761,0.0
+Not Available,761,0.0
+Nut,761,605.992
+Powder,761,0.0
+Supplement,761,102.38399999999999
+Tobacco,761,0.0
+BreadCrumb,762,0.0
+Candy,762,0.0
+Default,762,0.0
+Dip,762,0.0
+Instant,762,0.0
+Not Available,762,0.0
+Nut,762,404.50800000000004
+Powder,762,0.0
+Supplement,762,67.392
+Tobacco,762,0.0
+BreadCrumb,763,0.0
+Candy,763,0.0
+Default,763,0.0
+Dip,763,0.0
+Instant,763,0.0
+Not Available,763,0.0
+Nut,763,455.092
+Powder,763,0.0
+Supplement,763,0.0
+Tobacco,763,0.0
+BreadCrumb,764,0.0
+Candy,764,0.0
+Default,764,0.0
+Dip,764,0.0
+Instant,764,0.0
+Not Available,764,0.0
+Nut,764,356.376
+Powder,764,0.0
+Supplement,764,0.0
+Tobacco,764,0.0
+BreadCrumb,767,0.0
+Candy,767,0.0
+Default,767,0.0
+Dip,767,0.0
+Instant,767,0.0
+Not Available,767,0.0
+Nut,767,614.5479999999999
+Powder,767,0.0
+Supplement,767,0.0
+Tobacco,767,0.0
+BreadCrumb,768,0.0
+Candy,768,0.0
+Default,768,0.0
+Dip,768,0.0
+Instant,768,0.0
+Not Available,768,0.0
+Nut,768,2279.748
+Powder,768,0.0
+Supplement,768,0.0
+Tobacco,768,0.0
+BreadCrumb,769,0.0
+Candy,769,0.0
+Default,769,0.0
+Dip,769,0.0
+Instant,769,0.0
+Not Available,769,0.0
+Nut,769,325.884
+Powder,769,0.0
+Supplement,769,201.088
+Tobacco,769,0.0
+BreadCrumb,770,0.0
+Candy,770,0.0
+Default,770,0.0
+Dip,770,0.0
+Instant,770,0.0
+Not Available,770,0.0
+Nut,770,557.718
+Powder,770,0.0
+Supplement,770,0.0
+Tobacco,770,0.0
+BreadCrumb,771,0.0
+Candy,771,48.672000000000004
+Default,771,0.0
+Dip,771,0.0
+Instant,771,0.0
+Not Available,771,0.0
+Nut,771,147.576
+Powder,771,0.0
+Supplement,771,0.0
+Tobacco,771,0.0
+BreadCrumb,772,0.0
+Candy,772,0.0
+Default,772,0.0
+Dip,772,0.0
+Instant,772,0.0
+Not Available,772,0.0
+Nut,772,1596.0
+Powder,772,0.0
+Supplement,772,0.0
+Tobacco,772,0.0
+BreadCrumb,774,0.0
+Candy,774,0.0
+Default,774,0.0
+Dip,774,0.0
+Instant,774,0.0
+Not Available,774,0.0
+Nut,774,1099.424
+Powder,774,0.0
+Supplement,774,0.0
+Tobacco,774,0.0
+BreadCrumb,775,0.0
+Candy,775,0.0
+Default,775,201.6
+Dip,775,0.0
+Instant,775,0.0
+Not Available,775,0.0
+Nut,775,2299.62
+Powder,775,0.0
+Supplement,775,0.0
+Tobacco,775,0.0
+BreadCrumb,776,351.4
+Candy,776,0.0
+Default,776,0.0
+Dip,776,0.0
+Instant,776,0.0
+Not Available,776,0.0
+Nut,776,574.592
+Powder,776,0.0
+Supplement,776,0.0
+Tobacco,776,0.0
+BreadCrumb,777,0.0
+Candy,777,0.0
+Default,777,0.0
+Dip,777,0.0
+Instant,777,0.0
+Not Available,777,0.0
+Nut,777,467.39200000000005
+Powder,777,0.0
+Supplement,777,0.0
+Tobacco,777,0.0
+BreadCrumb,778,0.0
+Candy,778,0.0
+Default,778,0.0
+Dip,778,0.0
+Instant,778,0.0
+Not Available,778,0.0
+Nut,778,377.98800000000006
+Powder,778,0.0
+Supplement,778,0.0
+Tobacco,778,0.0
+BreadCrumb,781,0.0
+Candy,781,0.0
+Default,781,0.0
+Dip,781,0.0
+Instant,781,0.0
+Not Available,781,0.0
+Nut,781,2154.948
+Powder,781,0.0
+Supplement,781,0.0
+Tobacco,781,0.0
+BreadCrumb,782,0.0
+Candy,782,0.0
+Default,782,0.0
+Dip,782,0.0
+Instant,782,0.0
+Not Available,782,0.0
+Nut,782,516.316
+Powder,782,0.0
+Supplement,782,0.0
+Tobacco,782,0.0
+BreadCrumb,783,0.0
+Candy,783,0.0
+Default,783,0.0
+Dip,783,0.0
+Instant,783,0.0
+Not Available,783,0.0
+Nut,783,660.592
+Powder,783,0.0
+Supplement,783,70.0
+Tobacco,783,0.0
+BreadCrumb,784,0.0
+Candy,784,0.0
+Default,784,0.0
+Dip,784,0.0
+Instant,784,0.0
+Not Available,784,0.0
+Nut,784,475.176
+Powder,784,0.0
+Supplement,784,0.0
+Tobacco,784,0.0
+BreadCrumb,785,0.0
+Candy,785,0.0
+Default,785,0.0
+Dip,785,0.0
+Instant,785,0.0
+Not Available,785,0.0
+Nut,785,674.0600000000001
+Powder,785,0.0
+Supplement,785,0.0
+Tobacco,785,0.0
+BreadCrumb,788,0.0
+Candy,788,0.0
+Default,788,0.0
+Dip,788,0.0
+Instant,788,0.0
+Not Available,788,0.0
+Nut,788,1390.856
+Powder,788,0.0
+Supplement,788,0.0
+Tobacco,788,0.0
+BreadCrumb,789,0.0
+Candy,789,0.0
+Default,789,0.0
+Dip,789,0.0
+Instant,789,0.0
+Not Available,789,0.0
+Nut,789,2275.732
+Powder,789,0.0
+Supplement,789,0.0
+Tobacco,789,0.0
+BreadCrumb,790,0.0
+Candy,790,0.0
+Default,790,0.0
+Dip,790,0.0
+Instant,790,0.0
+Not Available,790,0.0
+Nut,790,2201.964
+Powder,790,0.0
+Supplement,790,0.0
+Tobacco,790,0.0
+BreadCrumb,791,0.0
+Candy,791,0.0
+Default,791,0.0
+Dip,791,0.0
+Instant,791,0.0
+Not Available,791,0.0
+Nut,791,408.56399999999996
+Powder,791,0.0
+Supplement,791,0.0
+Tobacco,791,0.0
+BreadCrumb,792,0.0
+Candy,792,0.0
+Default,792,0.0
+Dip,792,0.0
+Instant,792,0.0
+Not Available,792,0.0
+Nut,792,380.64000000000004
+Powder,792,0.0
+Supplement,792,0.0
+Tobacco,792,0.0
+BreadCrumb,795,0.0
+Candy,795,0.0
+Default,795,0.0
+Dip,795,0.0
+Instant,795,0.0
+Not Available,795,0.0
+Nut,795,546.7560000000001
+Powder,795,0.0
+Supplement,795,0.0
+Tobacco,795,0.0
+BreadCrumb,796,166.32
+Candy,796,0.0
+Default,796,0.0
+Dip,796,0.0
+Instant,796,0.0
+Not Available,796,0.0
+Nut,796,743.0999999999998
+Powder,796,0.0
+Supplement,796,0.0
+Tobacco,796,0.0
+BreadCrumb,797,0.0
+Candy,797,0.0
+Default,797,0.0
+Dip,797,0.0
+Instant,797,0.0
+Not Available,797,0.0
+Nut,797,581.5
+Powder,797,0.0
+Supplement,797,204.0
+Tobacco,797,0.0
+BreadCrumb,798,0.0
+Candy,798,0.0
+Default,798,0.0
+Dip,798,0.0
+Instant,798,0.0
+Not Available,798,0.0
+Nut,798,476.73600000000005
+Powder,798,0.0
+Supplement,798,31.824
+Tobacco,798,0.0
+BreadCrumb,799,0.0
+Candy,799,0.0
+Default,799,0.0
+Dip,799,0.0
+Instant,799,0.0
+Not Available,799,0.0
+Nut,799,1979.136
+Powder,799,0.0
+Supplement,799,0.0
+Tobacco,799,0.0
+BreadCrumb,802,0.0
+Candy,802,0.0
+Default,802,0.0
+Dip,802,0.0
+Instant,802,0.0
+Not Available,802,0.0
+Nut,802,934.4279999999999
+Powder,802,0.0
+Supplement,802,0.0
+Tobacco,802,0.0
+BreadCrumb,803,0.0
+Candy,803,0.0
+Default,803,0.0
+Dip,803,0.0
+Instant,803,0.0
+Not Available,803,0.0
+Nut,803,1021.0119999999998
+Powder,803,0.0
+Supplement,803,13.968
+Tobacco,803,0.0
+BreadCrumb,804,0.0
+Candy,804,0.0
+Default,804,0.0
+Dip,804,0.0
+Instant,804,0.0
+Not Available,804,0.0
+Nut,804,668.148
+Powder,804,0.0
+Supplement,804,0.0
+Tobacco,804,0.0
+BreadCrumb,805,0.0
+Candy,805,0.0
+Default,805,0.0
+Dip,805,0.0
+Instant,805,0.0
+Not Available,805,0.0
+Nut,805,802.052
+Powder,805,0.0
+Supplement,805,105.84
+Tobacco,805,0.0
+BreadCrumb,806,0.0
+Candy,806,0.0
+Default,806,0.0
+Dip,806,0.0
+Instant,806,0.0
+Not Available,806,0.0
+Nut,806,409.52
+Powder,806,0.0
+Supplement,806,0.0
+Tobacco,806,0.0
+BreadCrumb,809,0.0
+Candy,809,0.0
+Default,809,0.0
+Dip,809,0.0
+Instant,809,0.0
+Not Available,809,0.0
+Nut,809,2399.5519999999997
+Powder,809,0.0
+Supplement,809,41.04
+Tobacco,809,0.0
+BreadCrumb,810,0.0
+Candy,810,0.0
+Default,810,0.0
+Dip,810,0.0
+Instant,810,0.0
+Not Available,810,0.0
+Nut,810,532.0920000000001
+Powder,810,0.0
+Supplement,810,0.0
+Tobacco,810,0.0
+BreadCrumb,811,0.0
+Candy,811,0.0
+Default,811,0.0
+Dip,811,0.0
+Instant,811,0.0
+Not Available,811,0.0
+Nut,811,448.08
+Powder,811,0.0
+Supplement,811,0.0
+Tobacco,811,0.0
+BreadCrumb,812,0.0
+Candy,812,0.0
+Default,812,0.0
+Dip,812,0.0
+Instant,812,0.0
+Not Available,812,0.0
+Nut,812,428.064
+Powder,812,0.0
+Supplement,812,0.0
+Tobacco,812,0.0
+BreadCrumb,813,0.0
+Candy,813,0.0
+Default,813,0.0
+Dip,813,0.0
+Instant,813,0.0
+Not Available,813,0.0
+Nut,813,318.552
+Powder,813,0.0
+Supplement,813,0.0
+Tobacco,813,0.0
+BreadCrumb,816,0.0
+Candy,816,0.0
+Default,816,0.0
+Dip,816,0.0
+Instant,816,0.0
+Not Available,816,0.0
+Nut,816,2730.528
+Powder,816,0.0
+Supplement,816,37.7
+Tobacco,816,0.0
+BreadCrumb,817,0.0
+Candy,817,0.0
+Default,817,0.0
+Dip,817,0.0
+Instant,817,0.0
+Not Available,817,0.0
+Nut,817,837.1400000000001
+Powder,817,0.0
+Supplement,817,0.0
+Tobacco,817,0.0
+BreadCrumb,818,0.0
+Candy,818,60.0
+Default,818,0.0
+Dip,818,0.0
+Instant,818,0.0
+Not Available,818,0.0
+Nut,818,513.3960000000001
+Powder,818,0.0
+Supplement,818,61.776
+Tobacco,818,61.86
+BreadCrumb,819,0.0
+Candy,819,0.0
+Default,819,0.0
+Dip,819,0.0
+Instant,819,0.0
+Not Available,819,0.0
+Nut,819,2210.644
+Powder,819,0.0
+Supplement,819,0.0
+Tobacco,819,0.0
+BreadCrumb,820,0.0
+Candy,820,0.0
+Default,820,0.0
+Dip,820,0.0
+Instant,820,0.0
+Not Available,820,0.0
+Nut,820,298.584
+Powder,820,0.0
+Supplement,820,0.0
+Tobacco,820,0.0
+BreadCrumb,824,166.32
+Candy,824,0.0
+Default,824,0.0
+Dip,824,0.0
+Instant,824,0.0
+Not Available,824,0.0
+Nut,824,373.93199999999996
+Powder,824,0.0
+Supplement,824,0.0
+Tobacco,824,0.0
+BreadCrumb,825,86.24
+Candy,825,0.0
+Default,825,0.0
+Dip,825,0.0
+Instant,825,0.0
+Not Available,825,0.0
+Nut,825,428.0639999999999
+Powder,825,0.0
+Supplement,825,0.0
+Tobacco,825,0.0
+BreadCrumb,826,0.0
+Candy,826,0.0
+Default,826,0.0
+Dip,826,0.0
+Instant,826,0.0
+Not Available,826,0.0
+Nut,826,508.71600000000007
+Powder,826,0.0
+Supplement,826,306.0
+Tobacco,826,0.0
+BreadCrumb,827,0.0
+Candy,827,0.0
+Default,827,0.0
+Dip,827,0.0
+Instant,827,0.0
+Not Available,827,0.0
+Nut,827,2271.6679999999997
+Powder,827,0.0
+Supplement,827,16.848
+Tobacco,827,0.0
+BreadCrumb,830,0.0
+Candy,830,0.0
+Default,830,0.0
+Dip,830,0.0
+Instant,830,0.0
+Not Available,830,0.0
+Nut,830,427.316
+Powder,830,0.0
+Supplement,830,50.83200000000001
+Tobacco,830,0.0
+BreadCrumb,831,0.0
+Candy,831,0.0
+Default,831,0.0
+Dip,831,0.0
+Instant,831,0.0
+Not Available,831,0.0
+Nut,831,1924.76
+Powder,831,0.0
+Supplement,831,0.0
+Tobacco,831,0.0
+BreadCrumb,832,0.0
+Candy,832,0.0
+Default,832,0.0
+Dip,832,0.0
+Instant,832,0.0
+Not Available,832,0.0
+Nut,832,460.85200000000003
+Powder,832,0.0
+Supplement,832,49.968
+Tobacco,832,0.0
+BreadCrumb,833,0.0
+Candy,833,0.0
+Default,833,0.0
+Dip,833,0.0
+Instant,833,0.0
+Not Available,833,0.0
+Nut,833,841.05
+Powder,833,0.0
+Supplement,833,0.0
+Tobacco,833,0.0
+BreadCrumb,834,0.0
+Candy,834,0.0
+Default,834,0.0
+Dip,834,0.0
+Instant,834,0.0
+Not Available,834,0.0
+Nut,834,2307.4919999999997
+Powder,834,0.0
+Supplement,834,0.0
+Tobacco,834,0.0
+BreadCrumb,837,0.0
+Candy,837,0.0
+Default,837,0.0
+Dip,837,0.0
+Instant,837,0.0
+Not Available,837,0.0
+Nut,837,665.6560000000001
+Powder,837,0.0
+Supplement,837,0.0
+Tobacco,837,0.0
+BreadCrumb,838,0.0
+Candy,838,0.0
+Default,838,0.0
+Dip,838,0.0
+Instant,838,0.0
+Not Available,838,0.0
+Nut,838,610.3599999999999
+Powder,838,0.0
+Supplement,838,0.0
+Tobacco,838,0.0
+BreadCrumb,839,0.0
+Candy,839,0.0
+Default,839,0.0
+Dip,839,0.0
+Instant,839,0.0
+Not Available,839,0.0
+Nut,839,513.864
+Powder,839,0.0
+Supplement,839,45.936
+Tobacco,839,0.0
+BreadCrumb,840,0.0
+Candy,840,0.0
+Default,840,0.0
+Dip,840,0.0
+Instant,840,0.0
+Not Available,840,0.0
+Nut,840,461.75999999999993
+Powder,840,0.0
+Supplement,840,0.0
+Tobacco,840,0.0
+BreadCrumb,841,0.0
+Candy,841,0.0
+Default,841,0.0
+Dip,841,0.0
+Instant,841,0.0
+Not Available,841,0.0
+Nut,841,1932.96
+Powder,841,0.0
+Supplement,841,204.0
+Tobacco,841,0.0
+BreadCrumb,844,0.0
+Candy,844,0.0
+Default,844,0.0
+Dip,844,0.0
+Instant,844,0.0
+Not Available,844,0.0
+Nut,844,428.5320000000001
+Powder,844,0.0
+Supplement,844,0.0
+Tobacco,844,0.0
+BreadCrumb,845,0.0
+Candy,845,0.0
+Default,845,0.0
+Dip,845,0.0
+Instant,845,0.0
+Not Available,845,0.0
+Nut,845,2118.6440000000002
+Powder,845,0.0
+Supplement,845,0.0
+Tobacco,845,0.0
+BreadCrumb,846,0.0
+Candy,846,0.0
+Default,846,0.0
+Dip,846,0.0
+Instant,846,0.0
+Not Available,846,0.0
+Nut,846,505.284
+Powder,846,0.0
+Supplement,846,51.839999999999996
+Tobacco,846,0.0
+BreadCrumb,847,0.0
+Candy,847,0.0
+Default,847,0.0
+Dip,847,0.0
+Instant,847,0.0
+Not Available,847,0.0
+Nut,847,451.70400000000006
+Powder,847,0.0
+Supplement,847,0.0
+Tobacco,847,0.0
+BreadCrumb,848,0.0
+Candy,848,0.0
+Default,848,0.0
+Dip,848,0.0
+Instant,848,0.0
+Not Available,848,0.0
+Nut,848,147.42000000000002
+Powder,848,0.0
+Supplement,848,0.0
+Tobacco,848,0.0

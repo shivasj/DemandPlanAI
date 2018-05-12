@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html ng-app="demandplanai.app">
+<head>
+    <title>Demand Plan AI</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="expires" content="-1" />
+
+    <!-- App Styles -->
+    <!--Bootstrap -->
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+
+    <!--Font awesome -->
+    <script defer src="lib/fontawesome/svg-with-js/js/fontawesome-all.min.js"></script>
+
+    <!-- Angular Material style sheet -->
+    <!--<link rel="stylesheet" href="lib/angular-material/angular-material.min.css">-->
+
+    <!-- UI Grid style sheet -->
+    <link rel="stylesheet" type="text/css" href="lib/angular-ui-grid/ui-grid.min.css">
+
+    <!--Main App CSS -->
+    <!-- build:css -->
+    <link rel="stylesheet" href="app.css">
+    <link rel="stylesheet" href="components/navbar/navbar.css">
+    <link rel="stylesheet" href="components/menu/menu.css">
+    <link rel="stylesheet" href="components/common/form-elements.css">
+    <link rel="stylesheet" href="components/home/home.css">
+    <link rel="stylesheet" href="components/demandplan/demandplan.css">
+    <!-- endbuild -->
+
+</head>
+<body ng-controller="AppController as appCtrl">
+
+    <!-- Header Navigation -->
+    <div class="hidden-print">
+        <app-header></app-header>
+    </div>
+
+    <!-- Body Content -->
+    <div class="body-content" ui-view ></div>
+
+    <!-- Footer -->
+    <div></div>
+
+    <!-- Load JS libraries -->
+    <!--Utils-->
+    <script type="text/javascript" src="lib/lodash/lodash.min.js"></script>
+    <script type="text/javascript" src="lib/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="lib/jquery-screenfull/screenfull.min.js"></script>
+    <script type="text/javascript" src="lib/papaparse/papaparse.min.js"></script>
+
+    <!-- D3 -->
+    <script src="lib/d3/d3.min.js"></script>
+    <!-- Socket IO -->
+    <script src="lib/socket.io/socket.io.js"></script>
+
+    <!--Angular -->
+    <script type="text/javascript" src="lib/angular/angular.min.js"></script>
+    <script type="text/javascript" src="lib/angular/angular-animate.min.js"></script>
+    <script type="text/javascript" src="lib/angular/angular-sanitize.min.js"></script>
+    <script type="text/javascript" src="lib/angular/angular-aria.min.js"></script>
+    <script type="text/javascript" src="lib/angular/angular-messages.min.js"></script>
+    <script type="text/javascript" src="lib/angular-ui-router/angular-ui-router.min.js"></script>
+    <script type="text/javascript" src="lib/ui-bootstrap/ui-bootstrap.min.js"></script>
+    <script type="text/javascript" src="lib/angular-local-storage/angular-local-storage.min.js"></script>
+    <!-- Angular Material Library -->
+    <!--<script type="text/javascript" src="lib/angular-material/angular-material.min.js"></script>-->
+    <script type="text/javascript" src="lib/angular-ui-grid/ui-grid.min.js"></script>
+
+    <!-- Load App libraries -->
+    <!-- build:appconfigjs -->
+    <script type="text/javascript" src="app.config.js"></script>
+    <!-- endbuild -->
+    <!-- build:js -->
+    <script type="text/javascript" src="components/d3components/d3components.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="components/common/common.js"></script>
+    <script type="text/javascript" src="components/navbar/navbar.js"></script>
+    <script type="text/javascript" src="components/menu/menu.js"></script>
+    <script type="text/javascript" src="components/home/home.js"></script>
+    <script type="text/javascript" src="components/demandplan/demandplan.js"></script>
+    <!-- endbuild -->
+
+</body>
+</html>

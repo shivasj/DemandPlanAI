@@ -1,0 +1,38 @@
+.month-picker-table{
+
+}
+.mp-year-header{
+    padding: 3px 6px;
+    color: #777 !important;
+    background-color: #fff;
+    font-size: 12px;
+    margin-left: -1px;
+    line-height: 20px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+}
+.mp-month {
+    padding: 3px 6px;
+    font-size: 12px;
+    background-color: #fff;
+    margin-left: -1px;
+    line-height: 15px;
+    color: #337ab7 !important;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.mp-active {
+    z-index: 3;
+    color: #fff !important;
+    cursor: pointer;
+    background-color: #337ab7 !important;
+    -webkit-print-color-adjust: exact;
+    /*border-color: #fff;*/
+}
+
+.mp-inactive {
+    color: #777 !important;
+    cursor: not-allowed;
+}

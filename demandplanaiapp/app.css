@@ -1,0 +1,30 @@
+html {
+    margin: 0;
+    padding: 0;
+    background: #f9fdfe;
+}
+body{
+    background: #f9fdfe;
+}
+.body-content{
+    margin-top: 120px;
+    margin-bottom: 75px;
+    position: relative;
+    font-size: 14px;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.42857143;
+    color: #58666e;
+}
+.padding-left-0{
+    padding-left: 0px;
+}
+.padding-right-0{
+    padding-right: 0px;
+}
+.btn-right{
+    padding-right: 2px;
+}
+.btn-fa-1x{
+    font-size: 1.5em;
+}
